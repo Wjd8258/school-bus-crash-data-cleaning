@@ -1,0 +1,1435 @@
+ID,Crash_Date,Crash_Time,Crash_Month,Season,Time_Period,Injury_Type_Grouped,Weather,Roadway_Surface,Lighting_Grouped
+E086266,2011-01-01,00:25:00,1,Winter,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3328536,2011-01-01,03:32:00,1,Winter,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+2670828,2011-01-01,11:50:00,1,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3327054,2011-01-01,12:29:00,1,Winter,Daytime,No Injury,Overcast,Dry,Daylight
+3200998,2011-01-02,10:03:00,1,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3172863,2011-01-02,14:03:00,1,Winter,Daytime,Serious Injury,Clear or Partly Cloudy,Wet,Daylight
+3205091,2011-01-02,17:42:00,1,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Dark
+E085787,2011-01-03,07:45:00,1,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3563526,2011-01-03,08:05:00,1,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3289343,2011-01-03,13:47:00,1,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3561836,2011-01-03,14:57:00,1,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+2897210,2011-01-04,04:25:00,1,Winter,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+E086156,2011-01-04,08:44:00,1,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3322793,2011-01-04,09:12:00,1,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E085881,2011-01-04,11:30:00,1,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3332171,2011-01-04,13:12:00,1,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3434318,2011-01-04,17:50:00,1,Winter,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Dark
+E087817,2011-01-05,03:54:00,1,Winter,Nighttime,No Injury,Raining,Wet,Dark-Street Lights On
+E087987,2011-01-05,07:07:00,1,Winter,Daytime,No Injury,Raining,Wet,Dark-Street Lights On
+3560751,2011-01-05,10:25:00,1,Winter,Daytime,No Injury,Clear or Partly Cloudy,Wet,Daylight
+E087338,2011-01-05,10:41:00,1,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3563577,2011-01-05,11:46:00,1,Winter,Daytime,No Injury,Overcast,Wet,Daylight
+E086547,2011-01-05,12:55:00,1,Winter,Daytime,No Injury,Overcast,Dry,Daylight
+3062544,2011-01-05,13:30:00,1,Winter,Daytime,Minor Injury,Overcast,Dry,Daylight
+3561577,2011-01-06,08:08:00,1,Winter,Daytime,No Injury,Raining,Wet,Daylight
+E086249,2011-01-06,11:05:00,1,Winter,Daytime,Minor Injury,Clear or Partly Cloudy,Wet,Daylight
+E086283,2011-01-06,13:10:00,1,Winter,Daytime,Minor Injury,Raining,Wet,Daylight
+3430199,2011-01-06,17:30:00,1,Winter,Daytime,No Injury,Overcast,Dry,Dark-Street Lights On
+E089286,2011-01-06,19:10:00,1,Winter,Daytime,No Injury,Raining,Wet,Dark-Street Lights On
+3361469,2011-01-06,23:25:00,1,Winter,Nighttime,No Injury,Raining,Wet,Unknown
+3377695,2011-01-06,23:54:00,1,Winter,Nighttime,No Injury,Raining,Dry,Dark-Street Lights On
+E086554,2011-01-07,08:08:00,1,Winter,Daytime,No Injury,Raining,Wet,Daylight
+2670804,2011-01-07,11:32:00,1,Winter,Daytime,No Injury,Raining,Wet,Daylight
+3281162,2011-01-07,12:31:00,1,Winter,Daytime,No Injury,Raining,Wet,Daylight
+E086359,2011-01-07,12:52:00,1,Winter,Daytime,No Injury,Clear or Partly Cloudy,Wet,Daylight
+3559593,2011-01-07,19:00:00,1,Winter,Daytime,No Injury,Raining,Wet,Dark-Street Lights On
+E087348,2011-01-08,11:40:00,1,Winter,Daytime,No Injury,Overcast,Dry,Daylight
+2695585,2011-01-08,16:56:00,1,Winter,Daytime,No Injury,Clear or Partly Cloudy,Wet,Dark-Street Lights On
+3440090,2011-01-08,19:01:00,1,Winter,Daytime,No Injury,Overcast,Wet,Dark-Street Lights On
+E087195,2011-01-09,10:35:00,1,Winter,Daytime,Minor Injury,Raining,Wet,Daylight
+2670806,2011-01-10,06:32:00,1,Winter,Daytime,Serious Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3062546,2011-01-10,08:40:00,1,Winter,Daytime,No Injury,Overcast,Dry,Daylight
+E086944,2011-01-10,15:04:00,1,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E087439,2011-01-10,20:30:00,1,Winter,Nighttime,Minor Injury,Overcast,Dry,Dark-Street Lights On
+3296922,2011-01-11,06:15:00,1,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+E086866,2011-01-11,10:33:00,1,Winter,Daytime,No Injury,Overcast,Dry,Daylight
+E089488,2011-01-11,10:59:00,1,Winter,Daytime,Minor Injury,Overcast,Dry,Daylight
+3339340,2011-01-11,11:04:00,1,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3331209,2011-01-11,13:22:00,1,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3344249,2011-01-11,15:09:00,1,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3410140,2011-01-12,18:07:00,1,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+E089468,2011-01-13,05:00:00,1,Winter,Nighttime,No Injury,Raining,Wet,Dark-Street Lights On
+E089088,2011-01-13,07:18:00,1,Winter,Daytime,No Injury,Raining,Wet,Dark
+E087948,2011-01-13,12:50:00,1,Winter,Daytime,Minor Injury,Raining,Wet,Daylight
+E087613,2011-01-13,14:30:00,1,Winter,Daytime,No Injury,Overcast,Dry,Daylight
+E088018,2011-01-13,14:31:00,1,Winter,Daytime,No Injury,Raining,Wet,Daylight
+E089598,2011-01-13,14:40:00,1,Winter,Daytime,Minor Injury,Raining,Wet,Daylight
+E087623,2011-01-13,14:55:00,1,Winter,Daytime,No Injury,Clear or Partly Cloudy,Wet,Daylight
+E087234,2011-01-13,14:56:00,1,Winter,Daytime,No Injury,Raining,Wet,Daylight
+E087750,2011-01-13,14:57:00,1,Winter,Daytime,No Injury,Raining,Wet,Daylight
+3373768,2011-01-13,17:50:00,1,Winter,Daytime,No Injury,Raining,Wet,Dark-Street Lights On
+3440094,2011-01-13,19:38:00,1,Winter,Daytime,No Injury,Overcast,Wet,Dark-Street Lights On
+3134835,2011-01-14,07:09:00,1,Winter,Daytime,No Injury,Overcast,Wet,Daylight
+3361640,2011-01-14,08:03:00,1,Winter,Daytime,No Injury,Raining,Wet,Daylight
+E088439,2011-01-14,14:51:00,1,Winter,Daytime,Minor Injury,Raining,Wet,Daylight
+3407087,2011-01-14,15:32:00,1,Winter,Daytime,No Injury,Clear or Partly Cloudy,Wet,Daylight
+2455103,2011-01-14,15:39:00,1,Winter,Daytime,No Injury,Clear or Partly Cloudy,Wet,Daylight
+E088181,2011-01-14,18:41:00,1,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3323019,2011-01-14,21:56:00,1,Winter,Nighttime,No Injury,Clear or Partly Cloudy,Wet,Dark-Street Lights On
+3278347,2011-01-15,19:01:00,1,Winter,Daytime,No Injury,Raining,Wet,Dark-Street Lights On
+3567854,2011-01-16,01:34:00,1,Winter,Nighttime,No Injury,Raining,Wet,Dark-Street Lights On
+E088874,2011-01-16,15:50:00,1,Winter,Daytime,Minor Injury,Clear or Partly Cloudy,Wet,Daylight
+3377135,2011-01-16,18:30:00,1,Winter,Daytime,No Injury,Overcast,Dry,Dark-Street Lights On
+3309055,2011-01-17,04:51:00,1,Winter,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3251144,2011-01-18,08:01:00,1,Winter,Daytime,No Injury,Raining,Dry,Daylight
+3559759,2011-01-18,10:40:00,1,Winter,Daytime,No Injury,Overcast,Dry,Daylight
+3110333,2011-01-18,11:36:00,1,Winter,Daytime,No Injury,Raining,Wet,Daylight
+E088241,2011-01-18,14:07:00,1,Winter,Daytime,Minor Injury,Clear or Partly Cloudy,Wet,Daylight
+2471597,2011-01-18,15:32:00,1,Winter,Daytime,No Injury,Overcast,Dry,Daylight
+3124588,2011-01-18,15:51:00,1,Winter,Daytime,No Injury,Raining,Wet,Daylight
+3410976,2011-01-18,16:14:00,1,Winter,Daytime,Minor Injury,Overcast,Wet,Daylight
+E088312,2011-01-18,17:15:00,1,Winter,Daytime,No Injury,Clear or Partly Cloudy,Wet,Dark-Street Lights On
+3437851,2011-01-18,17:36:00,1,Winter,Daytime,Minor Injury,Overcast,Wet,Dark-Street Lights On
+3165756,2011-01-18,19:20:00,1,Winter,Daytime,No Injury,Raining,Wet,Dark-Street Lights On
+E088503,2011-01-19,10:32:00,1,Winter,Daytime,No Injury,Clear or Partly Cloudy,Wet,Daylight
+E089004,2011-01-20,09:01:00,1,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E088854,2011-01-20,11:06:00,1,Winter,Daytime,Minor Injury,Overcast,Dry,Daylight
+3214143,2011-01-20,14:00:00,1,Winter,Daytime,No Injury,Clear or Partly Cloudy,Wet,Daylight
+3319456,2011-01-20,16:17:00,1,Winter,Daytime,No Injury,Overcast,Dry,Daylight
+E088976,2011-01-21,07:12:00,1,Winter,Daytime,No Injury,Raining,Wet,Daylight
+E091371,2011-01-21,09:08:00,1,Winter,Daytime,No Injury,Raining,Wet,Daylight
+3531380,2011-01-21,11:42:00,1,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E090616,2011-01-21,13:50:00,1,Winter,Daytime,No Injury,Overcast,Wet,Daylight
+E088468,2011-01-21,14:23:00,1,Winter,Daytime,Minor Injury,Raining,Wet,Daylight
+3447382,2011-01-21,14:25:00,1,Winter,Daytime,No Injury,Clear or Partly Cloudy,Wet,Daylight
+2887439,2011-01-21,15:23:00,1,Winter,Daytime,No Injury,Raining,Wet,Daylight
+3567926,2011-01-22,08:47:00,1,Winter,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E088650,2011-01-22,14:35:00,1,Winter,Daytime,Minor Injury,Clear or Partly Cloudy,Wet,Daylight
+3568605,2011-01-24,00:31:00,1,Winter,Nighttime,No Injury,Raining,Wet,Dark-Street Lights On
+3332173,2011-01-24,08:11:00,1,Winter,Daytime,No Injury,Overcast,Wet,Daylight
+E089022,2011-01-24,10:55:00,1,Winter,Daytime,Minor Injury,Clear or Partly Cloudy,Wet,Daylight
+3207312,2011-01-24,11:10:00,1,Winter,Daytime,No Injury,Raining,Wet,Daylight
+E088877,2011-01-24,13:00:00,1,Winter,Daytime,No Injury,Overcast,Dry,Daylight
+3556758,2011-01-24,15:00:00,1,Winter,Daytime,Minor Injury,Overcast,Wet,Daylight
+3568436,2011-01-24,15:00:00,1,Winter,Daytime,No Injury,Unknown,Unknown,Unknown
+E088998,2011-01-24,18:30:00,1,Winter,Daytime,No Injury,Overcast,Wet,Dark-Street Lights On
+3342249,2011-01-24,19:25:00,1,Winter,Daytime,No Injury,Clear or Partly Cloudy,Wet,Dark-Street Lights On
+2654966,2011-01-25,08:24:00,1,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E092232,2011-01-25,09:23:00,1,Winter,Daytime,No Injury,Clear or Partly Cloudy,Wet,Daylight
+2671344,2011-01-25,11:10:00,1,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3557037,2011-01-25,11:45:00,1,Winter,Daytime,No Injury,Overcast,Wet,Daylight
+E092645,2011-01-25,15:33:00,1,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3280218,2011-01-26,10:00:00,1,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E089071,2011-01-26,12:05:00,1,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3277219,2011-01-26,14:24:00,1,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E089158,2011-01-26,16:29:00,1,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E092120,2011-01-26,17:09:00,1,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E089452,2011-01-26,20:04:00,1,Winter,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3342250,2011-01-26,21:05:00,1,Winter,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3377826,2011-01-27,01:00:00,1,Winter,Nighttime,Minor Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+E089222,2011-01-27,08:37:00,1,Winter,Daytime,Minor Injury,Overcast,Dry,Daylight
+3377663,2011-01-27,10:41:00,1,Winter,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3241455,2011-01-27,11:50:00,1,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E089441,2011-01-27,12:52:00,1,Winter,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E089255,2011-01-27,15:38:00,1,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3447735,2011-01-28,06:50:00,1,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3568444,2011-01-28,09:20:00,1,Winter,Daytime,No Injury,Unknown,Unknown,Unknown
+E089414,2011-01-28,10:40:00,1,Winter,Daytime,No Injury,Raining,Wet,Daylight
+E090631,2011-01-28,18:15:00,1,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Dark
+3409998,2011-01-28,18:53:00,1,Winter,Daytime,No Injury,Raining,Dry,Unknown
+3563452,2011-01-29,00:39:00,1,Winter,Nighttime,Minor Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+E089561,2011-01-29,12:45:00,1,Winter,Daytime,No Injury,Raining,Wet,Daylight
+2491874,2011-01-29,18:15:00,1,Winter,Daytime,No Injury,Unknown,Unknown,Unknown
+3567913,2011-01-30,05:27:00,1,Winter,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+E089840,2011-01-31,08:00:00,1,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3189399,2011-01-31,12:14:00,1,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E092722,2011-01-31,17:25:00,1,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+E090000,2011-01-31,18:14:00,1,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3555356,2011-01-31,18:45:00,1,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3213495,2011-02-01,04:23:00,2,Winter,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+E091021,2011-02-01,07:46:00,2,Winter,Daytime,No Injury,Clear or Partly Cloudy,Wet,Daylight
+3408871,2011-02-01,08:43:00,2,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3341819,2011-02-01,10:20:00,2,Winter,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+2477985,2011-02-01,10:50:00,2,Winter,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3377670,2011-02-01,12:54:00,2,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E089939,2011-02-01,15:51:00,2,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3377673,2011-02-01,18:35:00,2,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+E090112,2011-02-02,09:24:00,2,Winter,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E090225,2011-02-02,10:19:00,2,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3326371,2011-02-02,14:50:00,2,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3563588,2011-02-03,15:41:00,2,Winter,Daytime,No Injury,Overcast,Dry,Daylight
+3373152,2011-02-03,16:44:00,2,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+2463038,2011-02-03,18:19:00,2,Winter,Daytime,No Injury,Overcast,Dry,Dark-Street Lights On
+E092134,2011-02-04,08:49:00,2,Winter,Daytime,No Injury,Raining,Wet,Daylight
+3377618,2011-02-04,10:25:00,2,Winter,Daytime,No Injury,Unknown,Unknown,Unknown
+2975648,2011-02-04,16:42:00,2,Winter,Daytime,No Injury,Overcast,Dry,Unknown
+E090516,2011-02-04,18:02:00,2,Winter,Daytime,Minor Injury,Overcast,Wet,Dark-Street Lights On
+3510544,2011-02-04,19:30:00,2,Winter,Daytime,No Injury,Overcast,Wet,Dark
+3267534,2011-02-05,06:05:00,2,Winter,Daytime,Minor Injury,Raining,Wet,Dark-Street Lights On
+3565588,2011-02-06,14:20:00,2,Winter,Daytime,No Injury,Overcast,Wet,Daylight
+2792894,2011-02-06,20:50:00,2,Winter,Nighttime,No Injury,Raining,Wet,Dark-Street Lights On
+E092144,2011-02-07,15:39:00,2,Winter,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3140059,2011-02-07,23:00:00,2,Winter,Nighttime,No Injury,Overcast,Wet,Dark-Street Lights On
+3466987,2011-02-08,07:39:00,2,Winter,Daytime,No Injury,Overcast,Dry,Daylight
+2722411,2011-02-08,13:34:00,2,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E090863,2011-02-08,14:54:00,2,Winter,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E090812,2011-02-08,15:28:00,2,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E090856,2011-02-08,15:54:00,2,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E090803,2011-02-08,15:59:00,2,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3560633,2011-02-08,17:06:00,2,Winter,Daytime,No Injury,Raining,Wet,Dark-Street Lights On
+E091311,2011-02-09,07:37:00,2,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3222679,2011-02-09,07:51:00,2,Winter,Daytime,No Injury,Overcast,Dry,Daylight
+E091577,2011-02-09,08:05:00,2,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3126117,2011-02-09,08:26:00,2,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E092428,2011-02-09,08:40:00,2,Winter,Daytime,No Injury,Overcast,Dry,Daylight
+E095775,2011-02-09,08:56:00,2,Winter,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+2750245,2011-02-09,09:14:00,2,Winter,Daytime,No Injury,Overcast,Dry,Daylight
+E091516,2011-02-09,16:53:00,2,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3332623,2011-02-09,17:54:00,2,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+E091848,2011-02-09,17:58:00,2,Winter,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3568690,2011-02-09,18:45:00,2,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3283924,2011-02-10,07:55:00,2,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E091225,2011-02-10,08:11:00,2,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3320024,2011-02-10,14:15:00,2,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E091312,2011-02-10,14:20:00,2,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E091121,2011-02-10,14:30:00,2,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E091131,2011-02-10,15:06:00,2,Winter,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E091133,2011-02-10,17:24:00,2,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+2842487,2011-02-10,17:57:00,2,Winter,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+2791231,2011-02-10,18:54:00,2,Winter,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3377829,2011-02-10,21:27:00,2,Winter,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+2823645,2011-02-11,11:10:00,2,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E091640,2011-02-11,19:50:00,2,Winter,Daytime,No Injury,Overcast,Dry,Dark-Street Lights On
+E092965,2011-02-12,02:41:00,2,Winter,Nighttime,Minor Injury,Clear or Partly Cloudy,Wet,Dark-Street Lights On
+3565557,2011-02-12,15:45:00,2,Winter,Daytime,No Injury,Raining,Wet,Daylight
+3375353,2011-02-12,23:02:00,2,Winter,Nighttime,Minor Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3385507,2011-02-14,07:41:00,2,Winter,Daytime,No Injury,Raining,Wet,Daylight
+3351975,2011-02-14,12:23:00,2,Winter,Daytime,No Injury,Raining,Wet,Daylight
+3372983,2011-02-14,13:43:00,2,Winter,Daytime,Minor Injury,Raining,Wet,Daylight
+E091667,2011-02-14,14:52:00,2,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3375438,2011-02-15,01:43:00,2,Winter,Nighttime,No Injury,Raining,Wet,Dark-Street Lights On
+E096696,2011-02-15,07:25:00,2,Winter,Daytime,No Injury,Raining,Wet,Daylight
+E091889,2011-02-15,12:46:00,2,Winter,Daytime,No Injury,Overcast,Wet,Daylight
+3559780,2011-02-15,14:20:00,2,Winter,Daytime,No Injury,Overcast,Wet,Daylight
+E091789,2011-02-15,15:40:00,2,Winter,Daytime,No Injury,Overcast,Dry,Daylight
+3170729,2011-02-16,09:35:00,2,Winter,Daytime,Serious Injury,Clear or Partly Cloudy,Wet,Daylight
+3517855,2011-02-16,14:01:00,2,Winter,Daytime,No Injury,Raining,Wet,Daylight
+E092059,2011-02-16,14:50:00,2,Winter,Daytime,Minor Injury,Raining,Wet,Daylight
+3408862,2011-02-16,16:14:00,2,Winter,Daytime,No Injury,Clear or Partly Cloudy,Wet,Daylight
+3013640,2011-02-16,16:37:00,2,Winter,Daytime,No Injury,Raining,Wet,Daylight
+E092880,2011-02-17,08:09:00,2,Winter,Daytime,No Injury,Clear or Partly Cloudy,Wet,Daylight
+E091900,2011-02-17,09:43:00,2,Winter,Daytime,Minor Injury,Overcast,Dry,Daylight
+3241458,2011-02-17,10:20:00,2,Winter,Daytime,No Injury,Raining,Wet,Daylight
+3331646,2011-02-17,11:15:00,2,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3287940,2011-02-17,14:07:00,2,Winter,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E093547,2011-02-17,14:42:00,2,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E092952,2011-02-17,22:35:00,2,Winter,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark
+2984251,2011-02-18,07:05:00,2,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3017647,2011-02-18,10:40:00,2,Winter,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E092237,2011-02-18,12:43:00,2,Winter,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+2679525,2011-02-18,13:10:00,2,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E092236,2011-02-18,14:57:00,2,Winter,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E092355,2011-02-18,15:11:00,2,Winter,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E092249,2011-02-18,16:48:00,2,Winter,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E092398,2011-02-18,18:30:00,2,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3200570,2011-02-18,23:52:00,2,Winter,Nighttime,No Injury,Raining,Dry,Dark-Street Lights On
+3133130,2011-02-19,13:42:00,2,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E092424,2011-02-19,14:32:00,2,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+2899649,2011-02-20,16:15:00,2,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3385509,2011-02-21,10:30:00,2,Winter,Daytime,No Injury,Overcast,Dry,Daylight
+3373012,2011-02-21,12:41:00,2,Winter,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3525102,2011-02-22,19:15:00,2,Winter,Daytime,No Injury,Overcast,Dry,Dark
+3559860,2011-02-22,23:03:00,2,Winter,Nighttime,No Injury,Overcast,Dry,Dark-Street Lights On
+E093296,2011-02-23,12:19:00,2,Winter,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E093640,2011-02-23,14:06:00,2,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3361295,2011-02-24,14:49:00,2,Winter,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+2826498,2011-02-24,20:30:00,2,Winter,Nighttime,Minor Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3375683,2011-02-25,08:33:00,2,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E093894,2011-02-25,14:45:00,2,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3518929,2011-02-25,15:12:00,2,Winter,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3375684,2011-02-25,15:44:00,2,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E099471,2011-02-25,16:17:00,2,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3564901,2011-02-26,09:45:00,2,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3339658,2011-02-26,14:26:00,2,Winter,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E094136,2011-02-28,08:00:00,2,Winter,Daytime,No Injury,Clear or Partly Cloudy,Wet,Daylight
+3062242,2011-02-28,17:05:00,2,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E094177,2011-02-28,19:00:00,2,Winter,Daytime,No Injury,Overcast,Dry,Dark-Street Lights On
+3568055,2011-02-28,19:50:00,2,Winter,Daytime,No Injury,Unknown,Unknown,Unknown
+3377902,2011-03-01,07:50:00,3,Spring,Daytime,No Injury,Unknown,Unknown,Unknown
+E093922,2011-03-01,08:09:00,3,Spring,Daytime,No Injury,Raining,Wet,Daylight
+3326944,2011-03-01,08:57:00,3,Spring,Daytime,No Injury,Raining,Wet,Daylight
+3218822,2011-03-01,10:15:00,3,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3386836,2011-03-01,12:40:00,3,Spring,Daytime,No Injury,Raining,Wet,Daylight
+E094620,2011-03-01,17:44:00,3,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3129563,2011-03-02,05:10:00,3,Spring,Nighttime,No Injury,Overcast,Wet,Dark
+E094799,2011-03-02,07:12:00,3,Spring,Daytime,No Injury,Overcast,Wet,Daylight
+3343119,2011-03-02,13:01:00,3,Spring,Daytime,Minor Injury,Raining,Wet,Daylight
+E094582,2011-03-03,08:34:00,3,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3331034,2011-03-03,09:45:00,3,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E095388,2011-03-03,10:06:00,3,Spring,Daytime,No Injury,Clear or Partly Cloudy,Wet,Daylight
+3014309,2011-03-03,11:27:00,3,Spring,Daytime,No Injury,Raining,Wet,Daylight
+3448302,2011-03-03,13:03:00,3,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E094882,2011-03-03,13:24:00,3,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E094521,2011-03-03,16:15:00,3,Spring,Daytime,No Injury,Raining,Wet,Daylight
+3448277,2011-03-03,16:43:00,3,Spring,Daytime,No Injury,Clear or Partly Cloudy,Wet,Daylight
+3373351,2011-03-03,23:20:00,3,Spring,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3341863,2011-03-03,23:24:00,3,Spring,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+E098180,2011-03-04,08:08:00,3,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E102922,2011-03-04,09:00:00,3,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3427559,2011-03-04,09:23:00,3,Spring,Daytime,No Injury,Clear or Partly Cloudy,Wet,Daylight
+E094549,2011-03-04,09:54:00,3,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3259723,2011-03-04,11:15:00,3,Spring,Daytime,No Injury,Raining,Wet,Daylight
+3557045,2011-03-04,14:35:00,3,Spring,Daytime,Serious Injury,Clear or Partly Cloudy,Dry,Daylight
+2522908,2011-03-04,15:10:00,3,Spring,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3565193,2011-03-04,16:41:00,3,Spring,Daytime,No Injury,Raining,Wet,Daylight
+E095346,2011-03-04,18:39:00,3,Spring,Daytime,No Injury,Raining,Wet,Dark-Street Lights On
+3258279,2011-03-04,19:32:00,3,Spring,Daytime,No Injury,Raining,Wet,Dark
+3328441,2011-03-04,22:06:00,3,Spring,Nighttime,No Injury,Raining,Wet,Dark-Street Lights On
+3375729,2011-03-05,02:03:00,3,Spring,Nighttime,Minor Injury,Overcast,Wet,Dark-Street Lights On
+3329967,2011-03-05,11:24:00,3,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+2775617,2011-03-05,13:53:00,3,Spring,Daytime,No Injury,Overcast,Dry,Daylight
+3329679,2011-03-05,14:23:00,3,Spring,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E095680,2011-03-05,22:20:00,3,Spring,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3346507,2011-03-06,14:50:00,3,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E094897,2011-03-06,18:56:00,3,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+E096311,2011-03-07,07:07:00,3,Spring,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3375751,2011-03-07,15:03:00,3,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E095315,2011-03-07,15:23:00,3,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E095085,2011-03-07,15:36:00,3,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3051500,2011-03-08,07:03:00,3,Spring,Daytime,No Injury,Overcast,Dry,Daylight
+3175433,2011-03-08,08:40:00,3,Spring,Daytime,Minor Injury,Raining,Dry,Daylight
+3241219,2011-03-08,09:00:00,3,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3330989,2011-03-08,14:20:00,3,Spring,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3288000,2011-03-08,16:28:00,3,Spring,Daytime,No Injury,Overcast,Dry,Daylight
+3556770,2011-03-08,17:22:00,3,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E095666,2011-03-08,19:07:00,3,Spring,Daytime,No Injury,Clear or Partly Cloudy,Wet,Dark-Street Lights On
+E095277,2011-03-09,06:23:00,3,Spring,Daytime,No Injury,Raining,Wet,Daylight
+3557089,2011-03-09,08:12:00,3,Spring,Daytime,Minor Injury,Raining,Wet,Daylight
+3569056,2011-03-09,08:53:00,3,Spring,Daytime,No Injury,Raining,Wet,Daylight
+3568071,2011-03-09,14:00:00,3,Spring,Daytime,No Injury,Unknown,Unknown,Unknown
+3322317,2011-03-09,14:10:00,3,Spring,Daytime,Minor Injury,Overcast,Wet,Daylight
+3404381,2011-03-09,15:24:00,3,Spring,Daytime,No Injury,Overcast,Wet,Daylight
+E097001,2011-03-09,21:37:00,3,Spring,Nighttime,No Injury,Raining,Wet,Dark-Street Lights On
+E097106,2011-03-10,00:10:00,3,Spring,Nighttime,Minor Injury,Raining,Wet,Dark-Street Lights On
+E095365,2011-03-10,07:50:00,3,Spring,Daytime,Minor Injury,Clear or Partly Cloudy,Wet,Daylight
+3427955,2011-03-10,14:15:00,3,Spring,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E101568,2011-03-10,15:17:00,3,Spring,Daytime,Minor Injury,Raining,Wet,Daylight
+E098512,2011-03-10,15:35:00,3,Spring,Daytime,No Injury,Raining,Wet,Daylight
+3562087,2011-03-10,16:16:00,3,Spring,Daytime,No Injury,Overcast,Wet,Daylight
+E095955,2011-03-10,18:06:00,3,Spring,Daytime,No Injury,Raining,Wet,Dark-Street Lights On
+3332319,2011-03-10,18:18:00,3,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3328214,2011-03-10,19:21:00,3,Spring,Daytime,Minor Injury,Raining,Wet,Dark-Street Lights On
+E096252,2011-03-11,10:06:00,3,Spring,Daytime,No Injury,Raining,Wet,Daylight
+E096470,2011-03-11,14:57:00,3,Spring,Daytime,No Injury,Overcast,Dry,Daylight
+3383370,2011-03-11,20:31:00,3,Spring,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+E095879,2011-03-12,12:06:00,3,Spring,Daytime,No Injury,Raining,Wet,Daylight
+E095968,2011-03-13,11:34:00,3,Spring,Daytime,Minor Injury,Raining,Wet,Daylight
+3200674,2011-03-13,12:01:00,3,Spring,Daytime,No Injury,Raining,Wet,Daylight
+E096082,2011-03-14,12:57:00,3,Spring,Daytime,No Injury,Overcast,Dry,Daylight
+3383262,2011-03-15,06:44:00,3,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3133438,2011-03-15,15:26:00,3,Spring,Daytime,Minor Injury,Overcast,Wet,Daylight
+E096294,2011-03-15,15:47:00,3,Spring,Daytime,No Injury,Raining,Wet,Daylight
+3380288,2011-03-15,16:49:00,3,Spring,Daytime,No Injury,Raining,Wet,Daylight
+3375716,2011-03-15,21:38:00,3,Spring,Nighttime,No Injury,Raining,Wet,Dark-Street Lights On
+3559937,2011-03-16,00:05:00,3,Spring,Nighttime,Minor Injury,Overcast,Wet,Dark-Street Lights On
+3524999,2011-03-16,09:42:00,3,Spring,Daytime,No Injury,Overcast,Wet,Daylight
+3559809,2011-03-16,11:25:00,3,Spring,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3381721,2011-03-16,14:54:00,3,Spring,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E096763,2011-03-16,20:18:00,3,Spring,Nighttime,Minor Injury,Clear or Partly Cloudy,Dry,Dark
+E096296,2011-03-17,07:38:00,3,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3380290,2011-03-17,11:40:00,3,Spring,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E096583,2011-03-17,14:38:00,3,Spring,Daytime,No Injury,Overcast,Dry,Daylight
+3190919,2011-03-17,15:58:00,3,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E097972,2011-03-17,16:20:00,3,Spring,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E097988,2011-03-17,17:30:00,3,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E102931,2011-03-18,08:04:00,3,Spring,Daytime,Minor Injury,Overcast,Dry,Daylight
+2966940,2011-03-18,08:05:00,3,Spring,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E097984,2011-03-18,22:00:00,3,Spring,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+2749892,2011-03-19,17:15:00,3,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3568578,2011-03-19,21:07:00,3,Spring,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3383568,2011-03-20,11:08:00,3,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3566531,2011-03-20,14:37:00,3,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3538396,2011-03-21,08:40:00,3,Spring,Daytime,No Injury,Overcast,Dry,Daylight
+3524784,2011-03-21,13:30:00,3,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3407156,2011-03-21,14:48:00,3,Spring,Daytime,No Injury,Raining,Wet,Daylight
+E097470,2011-03-22,11:59:00,3,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3062250,2011-03-22,15:35:00,3,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E097159,2011-03-22,15:54:00,3,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3275849,2011-03-22,16:01:00,3,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E097316,2011-03-22,18:02:00,3,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3005863,2011-03-23,13:27:00,3,Spring,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E097512,2011-03-23,14:45:00,3,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3559810,2011-03-23,15:18:00,3,Spring,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+2501893,2011-03-23,17:15:00,3,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3319303,2011-03-24,07:40:00,3,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3564827,2011-03-24,09:33:00,3,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3565712,2011-03-24,16:10:00,3,Spring,Daytime,No Injury,Overcast,Wet,Daylight
+3345221,2011-03-24,17:16:00,3,Spring,Daytime,Minor Injury,Raining,Wet,Daylight
+E097540,2011-03-25,08:16:00,3,Spring,Daytime,No Injury,Raining,Wet,Daylight
+E104795,2011-03-25,10:15:00,3,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3564829,2011-03-25,11:30:00,3,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E097825,2011-03-25,16:36:00,3,Spring,Daytime,No Injury,Overcast,Dry,Dark
+3524727,2011-03-25,17:25:00,3,Spring,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3510745,2011-03-25,22:27:00,3,Spring,Nighttime,Minor Injury,Clear or Partly Cloudy,Wet,Dark-Street Lights On
+3377832,2011-03-26,01:20:00,3,Spring,Nighttime,Minor Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3370213,2011-03-26,12:45:00,3,Spring,Daytime,No Injury,Raining,Wet,Daylight
+3387784,2011-03-26,14:46:00,3,Spring,Daytime,Minor Injury,Raining,Wet,Daylight
+E098740,2011-03-26,21:50:00,3,Spring,Nighttime,No Injury,Overcast,Dry,Dark-Street Lights On
+3564430,2011-03-27,12:24:00,3,Spring,Daytime,No Injury,Raining,Wet,Daylight
+E100124,2011-03-27,20:06:00,3,Spring,Nighttime,No Injury,Raining,Wet,Dark-Street Lights On
+3564501,2011-03-28,13:42:00,3,Spring,Daytime,Minor Injury,Overcast,Dry,Daylight
+E098346,2011-03-28,15:32:00,3,Spring,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3205645,2011-03-28,19:11:00,3,Spring,Daytime,No Injury,Raining,Dry,Dark-Street Lights On
+2770622,2011-03-29,08:38:00,3,Spring,Daytime,Minor Injury,Raining,Dry,Daylight
+2907324,2011-03-29,15:20:00,3,Spring,Daytime,Minor Injury,Raining,Wet,Daylight
+3425054,2011-03-29,19:07:00,3,Spring,Daytime,No Injury,Raining,Wet,Daylight
+3568613,2011-03-30,09:17:00,3,Spring,Daytime,Minor Injury,Unknown,Wet,Daylight
+3563554,2011-03-30,11:25:00,3,Spring,Daytime,No Injury,Clear or Partly Cloudy,Wet,Daylight
+E098650,2011-03-30,11:41:00,3,Spring,Daytime,No Injury,Raining,Wet,Daylight
+2953965,2011-03-30,18:00:00,3,Spring,Daytime,Serious Injury,Raining,Wet,Daylight
+3375880,2011-03-31,09:28:00,3,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E100364,2011-03-31,09:37:00,3,Spring,Daytime,No Injury,Overcast,Wet,Daylight
+E099873,2011-03-31,12:10:00,3,Spring,Daytime,No Injury,Raining,Wet,Daylight
+E099071,2011-03-31,14:20:00,3,Spring,Daytime,No Injury,Overcast,Dry,Daylight
+3377833,2011-03-31,20:18:00,3,Spring,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3567844,2011-03-31,22:01:00,3,Spring,Nighttime,No Injury,Overcast,Dry,Dark-Street Lights On
+3200484,2011-03-31,23:28:00,3,Spring,Nighttime,Minor Injury,Clear or Partly Cloudy,Wet,Dark-Street Lights On
+2841073,2011-04-01,02:20:00,4,Spring,Nighttime,No Injury,Overcast,Dry,Dark-Street Lights On
+3329682,2011-04-01,15:09:00,4,Spring,Daytime,No Injury,Raining,Wet,Daylight
+E106451,2011-04-01,21:21:00,4,Spring,Nighttime,Serious Injury,Raining,Wet,Dark-Street Lights On
+3404880,2011-04-01,22:10:00,4,Spring,Nighttime,Minor Injury,Raining,Wet,Dark-Street Lights On
+3329058,2011-04-02,12:04:00,4,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+2952893,2011-04-02,13:10:00,4,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3564478,2011-04-03,22:23:00,4,Spring,Nighttime,No Injury,Raining,Wet,Dark-Street Lights On
+3209757,2011-04-04,11:18:00,4,Spring,Daytime,No Injury,Raining,Wet,Daylight
+E099050,2011-04-04,12:20:00,4,Spring,Daytime,No Injury,Overcast,Dry,Daylight
+3219147,2011-04-04,15:12:00,4,Spring,Daytime,No Injury,Raining,Wet,Daylight
+2517896,2011-04-04,16:06:00,4,Spring,Daytime,No Injury,Overcast,Dry,Daylight
+3568548,2011-04-04,16:30:00,4,Spring,Daytime,No Injury,Raining,Wet,Daylight
+E099996,2011-04-04,16:37:00,4,Spring,Daytime,Minor Injury,Overcast,Wet,Daylight
+3369752,2011-04-05,08:57:00,4,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3377145,2011-04-05,09:56:00,4,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E099205,2011-04-05,15:11:00,4,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3369753,2011-04-05,15:30:00,4,Spring,Daytime,No Injury,Overcast,Dry,Daylight
+E099623,2011-04-05,16:17:00,4,Spring,Daytime,Minor Injury,Raining,Wet,Daylight
+3560665,2011-04-06,17:49:00,4,Spring,Daytime,No Injury,Raining,Wet,Daylight
+3551010,2011-04-07,02:30:00,4,Spring,Nighttime,No Injury,Unknown,Unknown,Unknown
+3175837,2011-04-07,11:26:00,4,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3374266,2011-04-07,12:32:00,4,Spring,Daytime,Minor Injury,Raining,Wet,Daylight
+3184212,2011-04-07,18:56:00,4,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3559947,2011-04-07,21:24:00,4,Spring,Nighttime,Minor Injury,Raining,Wet,Dark-Street Lights On
+3375937,2011-04-07,21:33:00,4,Spring,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+E100018,2011-04-08,11:51:00,4,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E100513,2011-04-08,12:02:00,4,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E099902,2011-04-08,13:07:00,4,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E100174,2011-04-08,15:17:00,4,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+2864980,2011-04-08,17:35:00,4,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3557430,2011-04-08,17:40:00,4,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E099805,2011-04-08,19:48:00,4,Spring,Daytime,No Injury,Overcast,Dry,Dark-Street Lights On
+3375210,2011-04-09,00:30:00,4,Spring,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3383714,2011-04-10,11:30:00,4,Spring,Daytime,No Injury,Overcast,Dry,Daylight
+E099970,2011-04-10,12:43:00,4,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E108273,2011-04-10,21:45:00,4,Spring,Nighttime,No Injury,Raining,Wet,Dark-Street Lights On
+E100477,2011-04-11,08:15:00,4,Spring,Daytime,No Injury,Overcast,Wet,Daylight
+3193050,2011-04-11,08:20:00,4,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E099968,2011-04-11,11:03:00,4,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E100052,2011-04-11,14:50:00,4,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E100259,2011-04-11,15:01:00,4,Spring,Daytime,No Injury,Overcast,Dry,Daylight
+E100240,2011-04-11,15:50:00,4,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3375410,2011-04-11,17:46:00,4,Spring,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+2670809,2011-04-12,05:48:00,4,Spring,Nighttime,Minor Injury,Clear or Partly Cloudy,Dry,Dark
+E100219,2011-04-12,08:34:00,4,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3432504,2011-04-12,08:52:00,4,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3565826,2011-04-12,10:45:00,4,Spring,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E100892,2011-04-12,15:16:00,4,Spring,Daytime,Minor Injury,Overcast,Dry,Daylight
+E100522,2011-04-13,15:15:00,4,Spring,Daytime,No Injury,Overcast,Wet,Daylight
+E100437,2011-04-13,15:30:00,4,Spring,Daytime,No Injury,Overcast,Dry,Daylight
+3375512,2011-04-13,15:56:00,4,Spring,Daytime,No Injury,Overcast,Dry,Daylight
+E101104,2011-04-13,16:35:00,4,Spring,Daytime,Minor Injury,Overcast,Dry,Daylight
+2509946,2011-04-14,07:55:00,4,Spring,Daytime,No Injury,Clear or Partly Cloudy,Wet,Daylight
+3524835,2011-04-14,08:29:00,4,Spring,Daytime,No Injury,Raining,Wet,Daylight
+E100863,2011-04-14,12:05:00,4,Spring,Daytime,No Injury,Overcast,Dry,Daylight
+3240880,2011-04-14,12:50:00,4,Spring,Daytime,Minor Injury,Raining,Wet,Daylight
+E100729,2011-04-14,14:09:00,4,Spring,Daytime,Minor Injury,Raining,Wet,Daylight
+3104804,2011-04-15,08:26:00,4,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3454839,2011-04-15,11:42:00,4,Spring,Daytime,No Injury,Overcast,Dry,Daylight
+E109926,2011-04-15,14:20:00,4,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+2710280,2011-04-15,16:11:00,4,Spring,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3329980,2011-04-15,21:09:00,4,Spring,Nighttime,No Injury,Overcast,Dry,Dark-Street Lights On
+3346248,2011-04-15,23:11:00,4,Spring,Nighttime,No Injury,Raining,Wet,Dark-Street Lights On
+3288615,2011-04-15,23:54:00,4,Spring,Nighttime,No Injury,Raining,Wet,Dark-Street Lights On
+3377802,2011-04-16,17:15:00,4,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3375529,2011-04-16,23:41:00,4,Spring,Nighttime,Minor Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3334773,2011-04-17,16:13:00,4,Spring,Daytime,Minor Injury,Overcast,Dry,Daylight
+E102389,2011-04-18,08:45:00,4,Spring,Daytime,No Injury,Raining,Wet,Daylight
+E101276,2011-04-18,11:04:00,4,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3409702,2011-04-18,11:45:00,4,Spring,Daytime,No Injury,Overcast,Dry,Daylight
+3319524,2011-04-18,15:41:00,4,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3448633,2011-04-18,17:10:00,4,Spring,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+2815173,2011-04-18,22:56:00,4,Spring,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+E101209,2011-04-19,07:07:00,4,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3432338,2011-04-19,07:38:00,4,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3197563,2011-04-19,08:08:00,4,Spring,Daytime,Minor Injury,Overcast,Dry,Daylight
+3411068,2011-04-19,08:28:00,4,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3358226,2011-04-19,11:20:00,4,Spring,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E101128,2011-04-19,15:20:00,4,Spring,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3135189,2011-04-20,07:20:00,4,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E101431,2011-04-20,15:28:00,4,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3435856,2011-04-21,06:55:00,4,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E101296,2011-04-21,07:00:00,4,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E101488,2011-04-21,07:28:00,4,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E101653,2011-04-21,07:56:00,4,Spring,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E101554,2011-04-21,14:37:00,4,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3374536,2011-04-21,16:35:00,4,Spring,Daytime,No Injury,Raining,Wet,Daylight
+3385680,2011-04-21,17:30:00,4,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+2447215,2011-04-21,18:50:00,4,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3172159,2011-04-21,23:05:00,4,Spring,Nighttime,No Injury,Raining,Wet,Dark-Street Lights On
+3352210,2011-04-22,07:34:00,4,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E101559,2011-04-22,08:25:00,4,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E109858,2011-04-22,09:55:00,4,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3368791,2011-04-22,16:11:00,4,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+2864982,2011-04-22,17:30:00,4,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3557115,2011-04-22,22:05:00,4,Spring,Nighttime,Minor Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3375412,2011-04-23,14:18:00,4,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+2433537,2011-04-24,01:12:00,4,Spring,Nighttime,No Injury,Overcast,Dry,Dark-Street Lights On
+E109826,2011-04-24,01:48:00,4,Spring,Nighttime,No Injury,Overcast,Wet,Dark-Street Lights On
+3372688,2011-04-24,14:28:00,4,Spring,Daytime,Minor Injury,Overcast,Dry,Daylight
+E102265,2011-04-25,07:50:00,4,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3193347,2011-04-25,08:05:00,4,Spring,Daytime,No Injury,Raining,Wet,Daylight
+E101950,2011-04-25,13:16:00,4,Spring,Daytime,Minor Injury,Raining,Wet,Daylight
+3397948,2011-04-25,13:54:00,4,Spring,Daytime,No Injury,Raining,Wet,Daylight
+3382913,2011-04-25,14:49:00,4,Spring,Daytime,No Injury,Raining,Dry,Daylight
+E101915,2011-04-25,16:58:00,4,Spring,Daytime,No Injury,Raining,Wet,Daylight
+E109804,2011-04-26,07:09:00,4,Spring,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E101948,2011-04-26,07:27:00,4,Spring,Daytime,Minor Injury,Overcast,Dry,Daylight
+E102086,2011-04-26,08:28:00,4,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E102127,2011-04-26,13:30:00,4,Spring,Daytime,No Injury,Raining,Wet,Daylight
+3332270,2011-04-26,13:36:00,4,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E103128,2011-04-26,14:59:00,4,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+2843530,2011-04-26,21:55:00,4,Spring,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3375414,2011-04-27,14:59:00,4,Spring,Daytime,No Injury,Raining,Wet,Daylight
+3567942,2011-04-27,17:30:00,4,Spring,Daytime,Minor Injury,Raining,Wet,Daylight
+3404753,2011-04-27,17:35:00,4,Spring,Daytime,No Injury,Raining,Wet,Daylight
+E109783,2011-04-27,18:08:00,4,Spring,Daytime,Minor Injury,Clear or Partly Cloudy,Wet,Daylight
+3287249,2011-04-28,11:37:00,4,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E102421,2011-04-28,15:13:00,4,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3565726,2011-04-28,17:02:00,4,Spring,Daytime,No Injury,Overcast,Dry,Daylight
+E102505,2011-04-28,18:32:00,4,Spring,Daytime,Serious Injury,Clear or Partly Cloudy,Dry,Daylight
+3374641,2011-04-29,07:37:00,4,Spring,Daytime,No Injury,Overcast,Wet,Daylight
+3345224,2011-04-29,11:19:00,4,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3566743,2011-04-29,11:30:00,4,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E102510,2011-04-29,13:35:00,4,Spring,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3318971,2011-04-29,15:21:00,4,Spring,Daytime,Minor Injury,Unknown,Unknown,Unknown
+E102651,2011-04-29,15:27:00,4,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E102569,2011-04-29,15:56:00,4,Spring,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3557711,2011-04-29,16:33:00,4,Spring,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3344199,2011-04-29,21:17:00,4,Spring,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Unknown
+3375889,2011-04-30,02:30:00,4,Spring,Nighttime,Minor Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3552979,2011-04-30,22:01:00,4,Spring,Nighttime,Minor Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3560451,2011-05-02,11:30:00,5,Spring,Daytime,No Injury,Raining,Wet,Daylight
+3334775,2011-05-02,12:26:00,5,Spring,Daytime,No Injury,Raining,Wet,Daylight
+E106278,2011-05-02,13:00:00,5,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3432682,2011-05-02,14:32:00,5,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3381855,2011-05-02,15:48:00,5,Spring,Daytime,Serious Injury,Overcast,Wet,Daylight
+3386981,2011-05-03,05:50:00,5,Spring,Nighttime,No Injury,Overcast,Dry,Daylight
+E103127,2011-05-03,07:37:00,5,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3409291,2011-05-03,08:53:00,5,Spring,Daytime,No Injury,Overcast,Wet,Daylight
+E103248,2011-05-03,14:01:00,5,Spring,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3121772,2011-05-03,17:15:00,5,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3375540,2011-05-03,19:59:00,5,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E104638,2011-05-04,07:28:00,5,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3510965,2011-05-04,09:07:00,5,Spring,Daytime,Serious Injury,Clear or Partly Cloudy,Dry,Daylight
+3556028,2011-05-04,13:00:00,5,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E103959,2011-05-05,09:23:00,5,Spring,Daytime,No Injury,Clear or Partly Cloudy,Wet,Daylight
+3537781,2011-05-05,15:50:00,5,Spring,Daytime,No Injury,Overcast,Dry,Daylight
+3569185,2011-05-05,17:55:00,5,Spring,Daytime,No Injury,Raining,Wet,Daylight
+E103600,2011-05-06,15:38:00,5,Spring,Daytime,No Injury,Raining,Wet,Daylight
+E103691,2011-05-06,18:23:00,5,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3129601,2011-05-06,18:51:00,5,Spring,Daytime,Minor Injury,Raining,Wet,Daylight
+3310523,2011-05-07,16:33:00,5,Spring,Daytime,No Injury,Overcast,Wet,Daylight
+3569067,2011-05-08,07:13:00,5,Spring,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3562376,2011-05-08,10:09:00,5,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3428835,2011-05-09,06:38:00,5,Spring,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+2670176,2011-05-09,16:50:00,5,Spring,Daytime,No Injury,Overcast,Dry,Daylight
+2497668,2011-05-10,08:08:00,5,Spring,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+2670177,2011-05-10,11:49:00,5,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E104315,2011-05-11,08:55:00,5,Spring,Daytime,Minor Injury,Overcast,Dry,Daylight
+3445202,2011-05-11,12:11:00,5,Spring,Daytime,Minor Injury,Raining,Wet,Daylight
+3559906,2011-05-11,14:05:00,5,Spring,Daytime,No Injury,Raining,Wet,Daylight
+3562379,2011-05-11,16:20:00,5,Spring,Daytime,Minor Injury,Raining,Wet,Daylight
+E109583,2011-05-12,08:20:00,5,Spring,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3331038,2011-05-12,08:43:00,5,Spring,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3560452,2011-05-12,12:10:00,5,Spring,Daytime,Serious Injury,Clear or Partly Cloudy,Dry,Daylight
+2542174,2011-05-12,12:42:00,5,Spring,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3565910,2011-05-12,13:39:00,5,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3346508,2011-05-12,14:16:00,5,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3377788,2011-05-12,14:55:00,5,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E105221,2011-05-12,15:29:00,5,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E104956,2011-05-12,16:43:00,5,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3537788,2011-05-13,08:28:00,5,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3562332,2011-05-13,13:20:00,5,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E105024,2011-05-13,16:40:00,5,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3564584,2011-05-13,17:29:00,5,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3198369,2011-05-13,20:41:00,5,Spring,Nighttime,Minor Injury,Clear or Partly Cloudy,Dry,Unknown
+3374646,2011-05-13,23:09:00,5,Spring,Nighttime,Minor Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+E105805,2011-05-14,19:10:00,5,Spring,Daytime,Minor Injury,Raining,Wet,Daylight
+2695188,2011-05-14,19:53:00,5,Spring,Daytime,Minor Injury,Raining,Wet,Daylight
+3373834,2011-05-14,21:02:00,5,Spring,Nighttime,No Injury,Raining,Wet,Dark-Street Lights On
+3373835,2011-05-14,22:31:00,5,Spring,Nighttime,No Injury,Raining,Wet,Dark-Street Lights On
+3375914,2011-05-15,11:15:00,5,Spring,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E104854,2011-05-16,11:23:00,5,Spring,Daytime,No Injury,Overcast,Dry,Daylight
+3373838,2011-05-16,15:10:00,5,Spring,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E105163,2011-05-16,18:20:00,5,Spring,Daytime,No Injury,Raining,Wet,Daylight
+3241400,2011-05-16,19:06:00,5,Spring,Daytime,No Injury,Overcast,Dry,Daylight
+3372691,2011-05-17,10:30:00,5,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3370164,2011-05-17,11:55:00,5,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3189724,2011-05-17,12:15:00,5,Spring,Daytime,Serious Injury,Clear or Partly Cloudy,Dry,Daylight
+E105180,2011-05-17,12:20:00,5,Spring,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E106829,2011-05-17,16:11:00,5,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3565858,2011-05-17,18:50:00,5,Spring,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+2552978,2011-05-18,08:20:00,5,Spring,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3562453,2011-05-19,10:09:00,5,Spring,Daytime,Serious Injury,Clear or Partly Cloudy,Dry,Daylight
+3105613,2011-05-19,11:42:00,5,Spring,Daytime,No Injury,Overcast,Dry,Daylight
+E109032,2011-05-19,15:49:00,5,Spring,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Dark
+E105693,2011-05-19,16:20:00,5,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3568983,2011-05-19,16:40:00,5,Spring,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E109482,2011-05-20,08:30:00,5,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3200330,2011-05-20,09:12:00,5,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3474052,2011-05-20,11:15:00,5,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+2858019,2011-05-20,14:46:00,5,Spring,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E105635,2011-05-20,15:07:00,5,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3566921,2011-05-20,15:48:00,5,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3569188,2011-05-21,14:30:00,5,Spring,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E105855,2011-05-22,10:57:00,5,Spring,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+2433696,2011-05-22,18:50:00,5,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3552781,2011-05-23,08:30:00,5,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3529152,2011-05-23,12:32:00,5,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3346344,2011-05-23,18:13:00,5,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+2791484,2011-05-23,18:29:00,5,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E113692,2011-05-24,06:44:00,5,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E112686,2011-05-24,06:59:00,5,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E106196,2011-05-24,07:43:00,5,Spring,Daytime,No Injury,Overcast,Dry,Daylight
+E106208,2011-05-24,14:10:00,5,Spring,Daytime,Minor Injury,Overcast,Dry,Daylight
+E107367,2011-05-24,14:29:00,5,Spring,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E106871,2011-05-24,16:00:00,5,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E106344,2011-05-24,17:05:00,5,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Dark
+E110802,2011-05-25,11:50:00,5,Spring,Daytime,Minor Injury,Raining,Wet,Daylight
+E106868,2011-05-25,12:13:00,5,Spring,Daytime,No Injury,Raining,Wet,Daylight
+3149887,2011-05-25,12:53:00,5,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E106300,2011-05-25,13:19:00,5,Spring,Daytime,Minor Injury,Raining,Wet,Daylight
+3376008,2011-05-25,13:35:00,5,Spring,Daytime,No Injury,Raining,Wet,Daylight
+E106702,2011-05-25,15:30:00,5,Spring,Daytime,No Injury,Unknown,Unknown,Daylight
+E106978,2011-05-25,16:01:00,5,Spring,Daytime,Minor Injury,Raining,Wet,Daylight
+2835637,2011-05-25,16:23:00,5,Spring,Daytime,No Injury,Overcast,Dry,Daylight
+E106657,2011-05-25,16:44:00,5,Spring,Daytime,No Injury,Raining,Wet,Daylight
+3552782,2011-05-25,17:08:00,5,Spring,Daytime,Minor Injury,Raining,Wet,Daylight
+3173347,2011-05-26,08:42:00,5,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E106571,2011-05-26,09:14:00,5,Spring,Daytime,No Injury,Overcast,Dry,Daylight
+E107437,2011-05-26,13:47:00,5,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E106994,2011-05-26,14:07:00,5,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3568551,2011-05-26,15:28:00,5,Spring,Daytime,No Injury,Overcast,Wet,Daylight
+3216279,2011-05-26,19:27:00,5,Spring,Daytime,No Injury,Overcast,Dry,Daylight
+3319201,2011-05-27,07:24:00,5,Spring,Daytime,Minor Injury,Overcast,Dry,Daylight
+3320821,2011-05-27,07:59:00,5,Spring,Daytime,No Injury,Raining,Wet,Daylight
+E106641,2011-05-27,11:52:00,5,Spring,Daytime,No Injury,Overcast,Wet,Daylight
+3173761,2011-05-27,17:17:00,5,Spring,Daytime,Minor Injury,Overcast,Dry,Daylight
+3328450,2011-05-27,21:28:00,5,Spring,Nighttime,Minor Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3377712,2011-05-27,21:30:00,5,Spring,Nighttime,No Injury,Overcast,Dry,Dark-Street Lights On
+E106889,2011-05-28,09:37:00,5,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3374545,2011-05-28,11:34:00,5,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E107901,2011-05-29,09:40:00,5,Spring,Daytime,No Injury,Overcast,Dry,Daylight
+3562880,2011-05-30,02:23:00,5,Spring,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+E107191,2011-05-31,07:27:00,5,Spring,Daytime,No Injury,Raining,Wet,Daylight
+3562883,2011-05-31,08:34:00,5,Spring,Daytime,No Injury,Raining,Wet,Daylight
+3403414,2011-05-31,14:40:00,5,Spring,Daytime,No Injury,Overcast,Dry,Daylight
+3562468,2011-05-31,15:38:00,5,Spring,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E108459,2011-05-31,16:01:00,5,Spring,Daytime,Minor Injury,Overcast,Wet,Daylight
+E108295,2011-05-31,17:10:00,5,Spring,Daytime,No Injury,Raining,Wet,Daylight
+E123497,2011-05-31,23:59:00,5,Spring,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3072342,2011-06-01,07:12:00,6,Summer,Daytime,No Injury,Clear or Partly Cloudy,Wet,Daylight
+3197773,2011-06-01,15:15:00,6,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3344943,2011-06-01,23:07:00,6,Summer,Nighttime,No Injury,Overcast,Dry,Dark-Street Lights On
+E108375,2011-06-02,07:55:00,6,Summer,Daytime,Minor Injury,Raining,Wet,Daylight
+E107567,2011-06-02,08:39:00,6,Summer,Daytime,No Injury,Overcast,Wet,Daylight
+E107818,2011-06-02,14:52:00,6,Summer,Daytime,No Injury,Raining,Wet,Daylight
+3409634,2011-06-02,15:28:00,6,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E107765,2011-06-02,15:43:00,6,Summer,Daytime,No Injury,Raining,Wet,Daylight
+3375760,2011-06-02,18:19:00,6,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E108421,2011-06-03,07:12:00,6,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E108355,2011-06-03,13:31:00,6,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E108431,2011-06-03,15:15:00,6,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E108316,2011-06-03,15:33:00,6,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3395593,2011-06-03,16:56:00,6,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3373858,2011-06-04,06:17:00,6,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3472647,2011-06-04,08:32:00,6,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3329567,2011-06-04,09:33:00,6,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E108823,2011-06-04,21:52:00,6,Summer,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+2905117,2011-06-04,23:38:00,6,Summer,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3568987,2011-06-05,18:00:00,6,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E111792,2011-06-05,20:28:00,6,Summer,Nighttime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E111258,2011-06-06,06:50:00,6,Summer,Daytime,No Injury,Overcast,Dry,Daylight
+3191021,2011-06-06,09:10:00,6,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E108987,2011-06-06,09:35:00,6,Summer,Daytime,No Injury,Overcast,Dry,Daylight
+E108387,2011-06-06,11:17:00,6,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E109283,2011-06-06,14:37:00,6,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3409716,2011-06-06,16:18:00,6,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3566770,2011-06-06,16:23:00,6,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3562776,2011-06-06,17:08:00,6,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E108382,2011-06-07,13:07:00,6,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E110374,2011-06-07,13:08:00,6,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3375370,2011-06-07,13:15:00,6,Summer,Daytime,Minor Injury,Overcast,Dry,Daylight
+3565953,2011-06-07,14:03:00,6,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3033088,2011-06-07,15:51:00,6,Summer,Daytime,No Injury,Raining,Wet,Daylight
+E108526,2011-06-07,16:21:00,6,Summer,Daytime,Minor Injury,Raining,Wet,Daylight
+3562801,2011-06-07,16:31:00,6,Summer,Daytime,No Injury,Raining,Wet,Daylight
+E108533,2011-06-07,16:46:00,6,Summer,Daytime,No Injury,Raining,Wet,Daylight
+3454682,2011-06-07,17:50:00,6,Summer,Daytime,No Injury,Raining,Wet,Daylight
+2441637,2011-06-08,07:00:00,6,Summer,Daytime,No Injury,Raining,Wet,Daylight
+E108713,2011-06-08,10:51:00,6,Summer,Daytime,Minor Injury,Overcast,Wet,Daylight
+E108623,2011-06-08,12:39:00,6,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+2864990,2011-06-08,20:20:00,6,Summer,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3404709,2011-06-09,09:38:00,6,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+2995915,2011-06-09,16:20:00,6,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E108964,2011-06-10,07:20:00,6,Summer,Daytime,No Injury,Overcast,Dry,Daylight
+2671229,2011-06-10,07:50:00,6,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E109257,2011-06-10,10:10:00,6,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3400076,2011-06-10,13:38:00,6,Summer,Daytime,No Injury,Overcast,Dry,Daylight
+E108984,2011-06-10,15:40:00,6,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+2433698,2011-06-10,16:55:00,6,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E109010,2011-06-11,02:55:00,6,Summer,Nighttime,Minor Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3566804,2011-06-11,07:45:00,6,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E110736,2011-06-11,12:32:00,6,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3377790,2011-06-11,14:19:00,6,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E111081,2011-06-11,17:40:00,6,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E108990,2011-06-11,18:34:00,6,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E111679,2011-06-12,17:04:00,6,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E110772,2011-06-13,01:18:00,6,Summer,Nighttime,Minor Injury,Raining,Wet,Dark-Street Lights On
+3338121,2011-06-13,08:05:00,6,Summer,Daytime,No Injury,Raining,Wet,Daylight
+3375384,2011-06-13,08:20:00,6,Summer,Daytime,No Injury,Overcast,Wet,Daylight
+E110153,2011-06-13,09:39:00,6,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E111561,2011-06-13,16:00:00,6,Summer,Daytime,No Injury,Overcast,Dry,Daylight
+3398906,2011-06-13,16:05:00,6,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+2953415,2011-06-14,08:45:00,6,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3348190,2011-06-14,14:06:00,6,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3427908,2011-06-14,19:08:00,6,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3564907,2011-06-14,22:45:00,6,Summer,Nighttime,Minor Injury,Raining,Wet,Dark-Street Lights On
+3380776,2011-06-15,06:24:00,6,Summer,Daytime,No Injury,Overcast,Wet,Daylight
+2742577,2011-06-15,08:50:00,6,Summer,Daytime,No Injury,Overcast,Wet,Daylight
+E110455,2011-06-15,12:09:00,6,Summer,Daytime,No Injury,Overcast,Dry,Daylight
+E110794,2011-06-15,13:15:00,6,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E111142,2011-06-15,15:44:00,6,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3288524,2011-06-15,16:11:00,6,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E110562,2011-06-16,11:03:00,6,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3377731,2011-06-16,11:52:00,6,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+2749887,2011-06-16,13:40:00,6,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3409641,2011-06-16,14:06:00,6,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E111153,2011-06-16,15:00:00,6,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+2742668,2011-06-16,15:07:00,6,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E111436,2011-06-16,15:27:00,6,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E110915,2011-06-17,07:57:00,6,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3372618,2011-06-17,08:49:00,6,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E111554,2011-06-17,11:39:00,6,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E113539,2011-06-17,13:44:00,6,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E112614,2011-06-17,14:09:00,6,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E110800,2011-06-17,15:40:00,6,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E110925,2011-06-17,17:31:00,6,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+2898625,2011-06-17,23:22:00,6,Summer,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3466912,2011-06-18,07:56:00,6,Summer,Daytime,No Injury,Raining,Wet,Daylight
+E111816,2011-06-18,11:49:00,6,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3466957,2011-06-18,18:07:00,6,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E110809,2011-06-19,09:12:00,6,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3383199,2011-06-19,17:15:00,6,Summer,Daytime,Serious Injury,Clear or Partly Cloudy,Dry,Daylight
+3562802,2011-06-20,13:56:00,6,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E111247,2011-06-20,15:01:00,6,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+2632438,2011-06-20,15:45:00,6,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3445211,2011-06-20,17:15:00,6,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E111249,2011-06-21,09:08:00,6,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E112580,2011-06-21,11:24:00,6,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E111344,2011-06-21,18:44:00,6,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3296045,2011-06-21,19:25:00,6,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E111379,2011-06-21,22:10:00,6,Summer,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3558332,2011-06-21,22:35:00,6,Summer,Nighttime,Serious Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+E111787,2011-06-22,10:35:00,6,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3346475,2011-06-22,16:58:00,6,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3207708,2011-06-23,11:37:00,6,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3562489,2011-06-23,23:38:00,6,Summer,Nighttime,No Injury,Raining,Wet,Dark-Street Lights On
+3377740,2011-06-24,05:27:00,6,Summer,Nighttime,No Injury,Raining,Wet,Daylight
+E113751,2011-06-24,06:06:00,6,Summer,Daytime,No Injury,Raining,Wet,Daylight
+3562492,2011-06-24,12:34:00,6,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3545605,2011-06-24,16:26:00,6,Summer,Daytime,No Injury,Raining,Wet,Daylight
+3553081,2011-06-24,17:13:00,6,Summer,Daytime,Minor Injury,Overcast,Dry,Daylight
+3562852,2011-06-24,21:32:00,6,Summer,Nighttime,No Injury,Overcast,Wet,Dark-Street Lights On
+3562827,2011-06-25,00:43:00,6,Summer,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3334975,2011-06-26,06:33:00,6,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3376013,2011-06-26,13:43:00,6,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3295594,2011-06-27,09:34:00,6,Summer,Daytime,No Injury,Overcast,Dry,Daylight
+3288413,2011-06-28,08:53:00,6,Summer,Daytime,No Injury,Overcast,Dry,Daylight
+E112599,2011-06-28,15:14:00,6,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3173379,2011-06-28,16:34:00,6,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E112585,2011-06-29,07:49:00,6,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3565295,2011-06-29,14:20:00,6,Summer,Daytime,No Injury,Overcast,Dry,Daylight
+3432697,2011-06-29,18:10:00,6,Summer,Daytime,No Injury,Overcast,Wet,Daylight
+E112806,2011-06-30,09:52:00,6,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3562603,2011-06-30,11:10:00,6,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+2953893,2011-06-30,17:05:00,6,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3201477,2011-07-01,16:27:00,7,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E114924,2011-07-01,16:31:00,7,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E114450,2011-07-01,16:40:00,7,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3352929,2011-07-02,07:56:00,7,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3330958,2011-07-03,00:49:00,7,Summer,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3373507,2011-07-03,07:40:00,7,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E115582,2011-07-04,23:30:00,7,Summer,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+E114103,2011-07-05,07:41:00,7,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3568181,2011-07-05,11:30:00,7,Summer,Daytime,No Injury,Unknown,Unknown,Unknown
+3170880,2011-07-05,12:12:00,7,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3456301,2011-07-05,12:29:00,7,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3327924,2011-07-05,17:32:00,7,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+2954162,2011-07-06,02:40:00,7,Summer,Nighttime,Minor Injury,Clear or Partly Cloudy,Dry,Dark
+E114919,2011-07-06,15:15:00,7,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3435735,2011-07-06,15:33:00,7,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E114296,2011-07-06,17:45:00,7,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E114019,2011-07-07,06:48:00,7,Summer,Daytime,No Injury,Overcast,Wet,Daylight
+E114105,2011-07-07,07:46:00,7,Summer,Daytime,Minor Injury,Overcast,Wet,Daylight
+3375371,2011-07-07,10:50:00,7,Summer,Daytime,No Injury,Overcast,Dry,Daylight
+3377747,2011-07-07,13:00:00,7,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E114092,2011-07-07,15:35:00,7,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E113907,2011-07-07,16:46:00,7,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E115281,2011-07-07,17:00:00,7,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3201479,2011-07-07,19:19:00,7,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3377749,2011-07-08,13:04:00,7,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3566865,2011-07-08,15:09:00,7,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E114088,2011-07-08,17:29:00,7,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+2985936,2011-07-09,10:03:00,7,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E114160,2011-07-09,13:55:00,7,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3566302,2011-07-11,13:30:00,7,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E114602,2011-07-12,09:15:00,7,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3377804,2011-07-12,13:27:00,7,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E114804,2011-07-12,13:52:00,7,Summer,Daytime,Serious Injury,Clear or Partly Cloudy,Dry,Daylight
+E115646,2011-07-12,16:15:00,7,Summer,Daytime,No Injury,Overcast,Dry,Daylight
+3568556,2011-07-12,18:14:00,7,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E115500,2011-07-12,19:18:00,7,Summer,Daytime,No Injury,Overcast,Dry,Daylight
+E115364,2011-07-13,08:00:00,7,Summer,Daytime,Minor Injury,Overcast,Dry,Daylight
+3562499,2011-07-13,10:39:00,7,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E115356,2011-07-13,14:42:00,7,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3175992,2011-07-13,14:59:00,7,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3538134,2011-07-14,10:55:00,7,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E115750,2011-07-14,17:55:00,7,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E115392,2011-07-15,12:51:00,7,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3224650,2011-07-15,14:38:00,7,Summer,Daytime,No Injury,Overcast,Dry,Daylight
+E117295,2011-07-15,22:46:00,7,Summer,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3380349,2011-07-16,14:35:00,7,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+2470495,2011-07-16,15:47:00,7,Summer,Daytime,No Injury,Raining,Wet,Daylight
+3385803,2011-07-16,15:49:00,7,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E115192,2011-07-16,16:35:00,7,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3562426,2011-07-17,13:00:00,7,Summer,Daytime,No Injury,Raining,Wet,Daylight
+E115546,2011-07-17,17:00:00,7,Summer,Daytime,Minor Injury,Raining,Wet,Daylight
+3288309,2011-07-18,11:52:00,7,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E115858,2011-07-18,19:42:00,7,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+2670159,2011-07-19,11:55:00,7,Summer,Daytime,Minor Injury,Overcast,Dry,Daylight
+E116627,2011-07-19,16:03:00,7,Summer,Daytime,Minor Injury,Overcast,Dry,Daylight
+2971455,2011-07-20,09:22:00,7,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+2441623,2011-07-20,19:45:00,7,Summer,Daytime,No Injury,Overcast,Dry,Daylight
+E116667,2011-07-21,13:00:00,7,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E117909,2011-07-21,13:57:00,7,Summer,Daytime,No Injury,Raining,Wet,Daylight
+E116006,2011-07-21,15:25:00,7,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E117313,2011-07-21,20:44:00,7,Summer,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3524796,2011-07-22,08:28:00,7,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3562436,2011-07-22,09:24:00,7,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+2545904,2011-07-22,11:55:00,7,Summer,Daytime,Serious Injury,Clear or Partly Cloudy,Dry,Daylight
+E116467,2011-07-22,15:17:00,7,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3561426,2011-07-22,16:26:00,7,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+2441381,2011-07-23,11:10:00,7,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3375695,2011-07-23,15:57:00,7,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3344948,2011-07-23,17:38:00,7,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3561206,2011-07-24,00:20:00,7,Summer,Nighttime,Minor Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3561502,2011-07-24,02:46:00,7,Summer,Nighttime,Minor Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3358023,2011-07-24,18:25:00,7,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E116519,2011-07-25,12:15:00,7,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E116787,2011-07-25,17:15:00,7,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3513615,2011-07-25,17:20:00,7,Summer,Daytime,No Injury,Overcast,Wet,Daylight
+3287644,2011-07-26,01:00:00,7,Summer,Nighttime,No Injury,Overcast,Dry,Dark-Street Lights On
+2686726,2011-07-26,07:03:00,7,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E117087,2011-07-26,10:28:00,7,Summer,Daytime,No Injury,Overcast,Dry,Daylight
+E117055,2011-07-26,14:22:00,7,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3553703,2011-07-26,20:13:00,7,Summer,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark
+3373262,2011-07-27,13:02:00,7,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3477326,2011-07-27,17:40:00,7,Summer,Daytime,No Injury,Unknown,Unknown,Unknown
+3561406,2011-07-27,20:53:00,7,Summer,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3553682,2011-07-28,11:11:00,7,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E117342,2011-07-28,13:28:00,7,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E118055,2011-07-28,16:00:00,7,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E117489,2011-07-29,13:53:00,7,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3540925,2011-07-29,17:17:00,7,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+2670732,2011-07-30,09:35:00,7,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3561327,2011-07-30,22:52:00,7,Summer,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3373319,2011-07-31,11:29:00,7,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E117846,2011-07-31,12:49:00,7,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E117799,2011-07-31,13:27:00,7,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3545859,2011-07-31,17:54:00,7,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3558339,2011-07-31,18:18:00,7,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E117715,2011-08-01,07:28:00,8,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+2454264,2011-08-01,13:04:00,8,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E117854,2011-08-01,16:24:00,8,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3374748,2011-08-02,10:52:00,8,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E117877,2011-08-02,12:00:00,8,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E121387,2011-08-02,15:48:00,8,Summer,Daytime,Minor Injury,Overcast,Dry,Daylight
+3131678,2011-08-02,17:08:00,8,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E118418,2011-08-02,19:05:00,8,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3374046,2011-08-03,10:52:00,8,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E118695,2011-08-03,12:00:00,8,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3375961,2011-08-03,18:57:00,8,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E119742,2011-08-03,21:10:00,8,Summer,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark
+3561380,2011-08-03,23:14:00,8,Summer,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3435778,2011-08-04,08:20:00,8,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E118813,2011-08-04,14:55:00,8,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3545709,2011-08-04,15:37:00,8,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3398653,2011-08-04,15:52:00,8,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E118594,2011-08-04,17:07:00,8,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E118718,2011-08-05,12:36:00,8,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E118644,2011-08-05,14:24:00,8,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E120157,2011-08-07,17:00:00,8,Summer,Daytime,Serious Injury,Clear or Partly Cloudy,Dry,Daylight
+3561420,2011-08-09,07:47:00,8,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Unknown
+3353017,2011-08-09,08:55:00,8,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E119225,2011-08-09,11:33:00,8,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3416141,2011-08-09,13:56:00,8,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3566223,2011-08-09,17:33:00,8,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E119361,2011-08-10,16:09:00,8,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E119414,2011-08-11,07:22:00,8,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3562385,2011-08-11,11:34:00,8,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3260027,2011-08-11,12:30:00,8,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+1486530,2011-08-11,14:08:00,8,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3375603,2011-08-11,14:09:00,8,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3432204,2011-08-11,17:52:00,8,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3321581,2011-08-12,14:19:00,8,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3482501,2011-08-12,22:48:00,8,Summer,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark
+2742202,2011-08-14,11:24:00,8,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3564823,2011-08-15,07:57:00,8,Summer,Daytime,Minor Injury,Overcast,Dry,Daylight
+E120788,2011-08-15,14:00:00,8,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E120308,2011-08-15,18:28:00,8,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E120476,2011-08-16,17:40:00,8,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E120712,2011-08-16,21:48:00,8,Summer,Nighttime,Minor Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+E120637,2011-08-17,17:55:00,8,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E120688,2011-08-18,11:14:00,8,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3566419,2011-08-18,12:45:00,8,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3055935,2011-08-18,16:41:00,8,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E123094,2011-08-19,12:50:00,8,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E120909,2011-08-19,14:05:00,8,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3382042,2011-08-19,16:15:00,8,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3561132,2011-08-19,16:30:00,8,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3364844,2011-08-19,21:19:00,8,Summer,Nighttime,Minor Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3466863,2011-08-20,07:30:00,8,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3561178,2011-08-20,14:25:00,8,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+2837611,2011-08-20,16:00:00,8,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3286394,2011-08-20,19:30:00,8,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3565921,2011-08-20,19:49:00,8,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3287690,2011-08-20,20:19:00,8,Summer,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3425654,2011-08-21,10:14:00,8,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3432184,2011-08-21,15:53:00,8,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3553685,2011-08-22,01:50:00,8,Summer,Nighttime,Minor Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3524343,2011-08-22,15:24:00,8,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E124265,2011-08-22,15:27:00,8,Summer,Daytime,Minor Injury,Raining,Wet,Daylight
+3561202,2011-08-22,15:40:00,8,Summer,Daytime,No Injury,Overcast,Dry,Daylight
+E121434,2011-08-22,16:14:00,8,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E121842,2011-08-22,20:20:00,8,Summer,Nighttime,No Injury,Raining,Wet,Dark-Street Lights On
+E121322,2011-08-22,21:43:00,8,Summer,Nighttime,No Injury,Raining,Wet,Dark-Street Lights On
+2671570,2011-08-23,05:30:00,8,Summer,Nighttime,No Injury,Overcast,Wet,Dark-Street Lights On
+3325691,2011-08-23,15:21:00,8,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E122205,2011-08-23,17:29:00,8,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3373511,2011-08-24,10:00:00,8,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E122746,2011-08-24,11:43:00,8,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3432272,2011-08-24,12:16:00,8,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E122975,2011-08-24,12:53:00,8,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3386780,2011-08-24,17:14:00,8,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3375923,2011-08-25,08:05:00,8,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3561209,2011-08-25,15:20:00,8,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3373880,2011-08-25,17:10:00,8,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E121953,2011-08-25,19:07:00,8,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3383699,2011-08-26,17:21:00,8,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3318922,2011-08-26,18:19:00,8,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3339991,2011-08-26,18:33:00,8,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3377799,2011-08-27,11:34:00,8,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E122481,2011-08-27,22:05:00,8,Summer,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3373587,2011-08-28,22:39:00,8,Summer,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3376018,2011-08-29,14:58:00,8,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E122815,2011-08-29,15:55:00,8,Summer,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+2971469,2011-08-31,10:50:00,8,Summer,Daytime,No Injury,Overcast,Dry,Daylight
+3368448,2011-08-31,11:29:00,8,Summer,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3326092,2011-09-01,10:07:00,9,Autumn,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3171580,2011-09-01,15:30:00,9,Autumn,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E123565,2011-09-02,15:30:00,9,Autumn,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E123401,2011-09-02,16:50:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E123230,2011-09-02,18:25:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E124762,2011-09-02,20:37:00,9,Autumn,Nighttime,Minor Injury,Clear or Partly Cloudy,Dry,Dark
+E126056,2011-09-02,22:25:00,9,Autumn,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+2954395,2011-09-03,00:30:00,9,Autumn,Nighttime,Minor Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3283394,2011-09-03,03:15:00,9,Autumn,Nighttime,Minor Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3445063,2011-09-03,07:29:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E124831,2011-09-03,10:33:00,9,Autumn,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3560951,2011-09-03,16:56:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3545686,2011-09-03,20:29:00,9,Autumn,Nighttime,Minor Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+E123766,2011-09-04,14:18:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3559540,2011-09-04,16:51:00,9,Autumn,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E123528,2011-09-04,21:46:00,9,Autumn,Nighttime,Minor Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3078305,2011-09-05,18:54:00,9,Autumn,Daytime,No Injury,Overcast,Wet,Daylight
+E126531,2011-09-05,20:21:00,9,Autumn,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+E124094,2011-09-06,07:00:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E124146,2011-09-06,13:39:00,9,Autumn,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E124035,2011-09-06,14:40:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3160563,2011-09-06,14:50:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E124001,2011-09-07,07:21:00,9,Autumn,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3471229,2011-09-07,08:19:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3425315,2011-09-07,08:46:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E124142,2011-09-07,15:00:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E124328,2011-09-07,15:06:00,9,Autumn,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3425136,2011-09-07,16:37:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E124435,2011-09-07,18:13:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E125551,2011-09-07,18:16:00,9,Autumn,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3337642,2011-09-08,16:00:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E124617,2011-09-09,06:55:00,9,Autumn,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3524393,2011-09-09,09:09:00,9,Autumn,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E124429,2011-09-09,09:10:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3545793,2011-09-09,09:27:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E130376,2011-09-09,15:05:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3233088,2011-09-09,15:30:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E124587,2011-09-09,15:40:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E126679,2011-09-09,16:55:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3111381,2011-09-09,17:21:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3375566,2011-09-10,10:34:00,9,Autumn,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3560826,2011-09-11,08:16:00,9,Autumn,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E125161,2011-09-12,13:15:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+2873072,2011-09-12,18:04:00,9,Autumn,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3531278,2011-09-12,22:20:00,9,Autumn,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3224676,2011-09-13,15:57:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E126500,2011-09-13,16:09:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E125188,2011-09-14,07:20:00,9,Autumn,Daytime,No Injury,Overcast,Dry,Daylight
+E125478,2011-09-14,07:45:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E125239,2011-09-14,10:45:00,9,Autumn,Daytime,No Injury,Overcast,Dry,Daylight
+E125799,2011-09-14,15:00:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+2433442,2011-09-15,09:17:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3561389,2011-09-15,09:20:00,9,Autumn,Daytime,Minor Injury,Overcast,Dry,Daylight
+3554569,2011-09-15,10:04:00,9,Autumn,Daytime,Minor Injury,Raining,Wet,Daylight
+E125450,2011-09-15,12:56:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3017490,2011-09-15,14:31:00,9,Autumn,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3444072,2011-09-15,15:13:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E125539,2011-09-15,16:07:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E125665,2011-09-15,16:58:00,9,Autumn,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E125627,2011-09-16,07:31:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+2710226,2011-09-16,07:51:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E125523,2011-09-16,08:38:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3432219,2011-09-16,12:28:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E127260,2011-09-16,14:50:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E126241,2011-09-16,17:04:00,9,Autumn,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E126022,2011-09-19,07:28:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Wet,Daylight
+2971470,2011-09-19,11:30:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E126272,2011-09-19,12:32:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E126498,2011-09-19,13:08:00,9,Autumn,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E126267,2011-09-19,16:33:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3267604,2011-09-19,17:35:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3566250,2011-09-20,08:26:00,9,Autumn,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E126250,2011-09-20,10:55:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E126400,2011-09-20,12:40:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E126445,2011-09-20,15:01:00,9,Autumn,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E126825,2011-09-20,16:23:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+2929692,2011-09-20,17:27:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E131114,2011-09-21,07:19:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E127648,2011-09-21,09:39:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E126484,2011-09-21,11:10:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3508352,2011-09-21,18:19:00,9,Autumn,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3196637,2011-09-22,08:12:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E126974,2011-09-22,15:00:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+2708680,2011-09-22,16:30:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3432804,2011-09-23,09:08:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3425461,2011-09-23,11:22:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+2899545,2011-09-23,20:30:00,9,Autumn,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3546311,2011-09-24,02:20:00,9,Autumn,Nighttime,Minor Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3472867,2011-09-24,09:43:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+2670735,2011-09-25,05:28:00,9,Autumn,Nighttime,No Injury,Raining,Wet,Dark-Street Lights On
+E128119,2011-09-25,13:14:00,9,Autumn,Daytime,No Injury,Overcast,Dry,Daylight
+3154774,2011-09-25,13:47:00,9,Autumn,Daytime,Minor Injury,Overcast,Dry,Daylight
+3445902,2011-09-25,23:02:00,9,Autumn,Nighttime,Minor Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3055015,2011-09-26,07:15:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E129400,2011-09-26,07:17:00,9,Autumn,Daytime,No Injury,Raining,Wet,Daylight
+E127599,2011-09-26,07:45:00,9,Autumn,Daytime,No Injury,Raining,Wet,Daylight
+2843093,2011-09-26,09:00:00,9,Autumn,Daytime,Minor Injury,Raining,Wet,Daylight
+3411665,2011-09-26,09:24:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E128224,2011-09-26,10:50:00,9,Autumn,Daytime,Minor Injury,Raining,Wet,Daylight
+3373885,2011-09-26,14:02:00,9,Autumn,Daytime,No Injury,Raining,Wet,Daylight
+3359668,2011-09-26,15:00:00,9,Autumn,Daytime,Minor Injury,Overcast,Dry,Daylight
+E127732,2011-09-26,15:18:00,9,Autumn,Daytime,Minor Injury,Raining,Wet,Daylight
+2570969,2011-09-26,16:33:00,9,Autumn,Daytime,No Injury,Raining,Wet,Daylight
+3124253,2011-09-27,07:45:00,9,Autumn,Daytime,No Injury,Overcast,Wet,Daylight
+E127562,2011-09-27,08:23:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3546403,2011-09-27,10:05:00,9,Autumn,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E130083,2011-09-27,13:21:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E127785,2011-09-27,13:43:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3563511,2011-09-27,14:02:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E128981,2011-09-27,14:36:00,9,Autumn,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3096240,2011-09-27,15:05:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E128384,2011-09-27,15:28:00,9,Autumn,Daytime,Minor Injury,Overcast,Dry,Daylight
+3546404,2011-09-27,15:46:00,9,Autumn,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3565985,2011-09-27,16:31:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3474726,2011-09-27,17:15:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E130564,2011-09-28,07:14:00,9,Autumn,Daytime,No Injury,Overcast,Dry,Daylight
+3568205,2011-09-28,08:25:00,9,Autumn,Daytime,Minor Injury,Unknown,Unknown,Daylight
+E127975,2011-09-28,09:25:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3546407,2011-09-28,12:23:00,9,Autumn,Daytime,No Injury,Overcast,Dry,Daylight
+E128753,2011-09-28,14:28:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3318866,2011-09-28,15:14:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3114299,2011-09-28,16:00:00,9,Autumn,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3544838,2011-09-28,16:10:00,9,Autumn,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E128513,2011-09-28,16:32:00,9,Autumn,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E128832,2011-09-29,15:24:00,9,Autumn,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E129456,2011-09-29,16:45:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E128900,2011-09-29,17:02:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E128074,2011-09-29,17:20:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3362708,2011-09-29,17:35:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E129903,2011-09-29,18:00:00,9,Autumn,Daytime,Serious Injury,Clear or Partly Cloudy,Dry,Daylight
+3546427,2011-09-30,02:09:00,9,Autumn,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+E128400,2011-09-30,07:33:00,9,Autumn,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E130157,2011-09-30,08:04:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3569033,2011-09-30,09:30:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3564789,2011-09-30,15:48:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+2727845,2011-09-30,16:20:00,9,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3546429,2011-09-30,20:52:00,9,Autumn,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3127176,2011-10-01,10:20:00,10,Autumn,Daytime,No Injury,Overcast,Dry,Daylight
+3546432,2011-10-02,01:51:00,10,Autumn,Nighttime,Minor Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3544733,2011-10-02,10:05:00,10,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E128652,2011-10-03,06:24:00,10,Autumn,Daytime,Minor Injury,Raining,Wet,Dark-Street Lights On
+E130479,2011-10-03,06:45:00,10,Autumn,Daytime,No Injury,Overcast,Dry,Daylight
+2670740,2011-10-03,06:52:00,10,Autumn,Daytime,Minor Injury,Raining,Wet,Daylight
+2873099,2011-10-03,09:00:00,10,Autumn,Daytime,No Injury,Raining,Wet,Daylight
+3466716,2011-10-03,10:35:00,10,Autumn,Daytime,No Injury,Overcast,Dry,Daylight
+E129439,2011-10-03,12:10:00,10,Autumn,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3416244,2011-10-03,15:45:00,10,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E129653,2011-10-03,22:32:00,10,Autumn,Nighttime,No Injury,Raining,Wet,Dark-Street Lights On
+3476907,2011-10-04,08:15:00,10,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E128988,2011-10-04,14:32:00,10,Autumn,Daytime,No Injury,Overcast,Dry,Daylight
+E129073,2011-10-05,11:30:00,10,Autumn,Daytime,Minor Injury,Raining,Wet,Daylight
+E129264,2011-10-05,11:45:00,10,Autumn,Daytime,Minor Injury,Raining,Wet,Daylight
+3466717,2011-10-05,11:54:00,10,Autumn,Daytime,Minor Injury,Raining,Wet,Daylight
+E132722,2011-10-05,19:50:00,10,Autumn,Daytime,No Injury,Raining,Wet,Dark-Street Lights On
+E129234,2011-10-06,07:35:00,10,Autumn,Daytime,No Injury,Overcast,Wet,Daylight
+3544352,2011-10-06,08:08:00,10,Autumn,Daytime,No Injury,Overcast,Wet,Daylight
+E129486,2011-10-06,08:32:00,10,Autumn,Daytime,Minor Injury,Overcast,Wet,Daylight
+E130489,2011-10-06,08:53:00,10,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Wet,Daylight
+E129246,2011-10-06,10:10:00,10,Autumn,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+2670254,2011-10-06,13:39:00,10,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E129343,2011-10-06,20:54:00,10,Autumn,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark
+3476914,2011-10-07,15:00:00,10,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E130572,2011-10-07,21:06:00,10,Autumn,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3546386,2011-10-07,21:43:00,10,Autumn,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3281036,2011-10-07,23:11:00,10,Autumn,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+E130565,2011-10-08,02:13:00,10,Autumn,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3561277,2011-10-09,02:25:00,10,Autumn,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3566611,2011-10-10,09:12:00,10,Autumn,Daytime,Minor Injury,Raining,Wet,Daylight
+E130016,2011-10-10,12:23:00,10,Autumn,Daytime,No Injury,Overcast,Wet,Daylight
+3560906,2011-10-10,12:44:00,10,Autumn,Daytime,No Injury,Raining,Wet,Daylight
+3546433,2011-10-10,14:38:00,10,Autumn,Daytime,No Injury,Raining,Wet,Daylight
+3172923,2011-10-10,15:17:00,10,Autumn,Daytime,No Injury,Overcast,Wet,Daylight
+E130024,2011-10-10,15:19:00,10,Autumn,Daytime,Minor Injury,Raining,Wet,Daylight
+E130613,2011-10-10,16:08:00,10,Autumn,Daytime,No Injury,Raining,Wet,Daylight
+E130166,2011-10-10,16:18:00,10,Autumn,Daytime,Minor Injury,Overcast,Wet,Daylight
+E129988,2011-10-10,16:21:00,10,Autumn,Daytime,No Injury,Raining,Wet,Daylight
+3568216,2011-10-10,21:00:00,10,Autumn,Nighttime,No Injury,Unknown,Unknown,Unknown
+3436846,2011-10-11,08:35:00,10,Autumn,Daytime,Minor Injury,Overcast,Wet,Daylight
+3425464,2011-10-11,10:01:00,10,Autumn,Daytime,No Injury,Overcast,Dry,Daylight
+E130243,2011-10-11,18:43:00,10,Autumn,Daytime,No Injury,Raining,Wet,Dark-Street Lights On
+3567330,2011-10-11,23:05:00,10,Autumn,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3129481,2011-10-12,09:05:00,10,Autumn,Daytime,No Injury,Overcast,Wet,Daylight
+3552973,2011-10-12,11:54:00,10,Autumn,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E131137,2011-10-12,13:30:00,10,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E130470,2011-10-12,14:27:00,10,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E131202,2011-10-12,15:16:00,10,Autumn,Daytime,Minor Injury,Overcast,Dry,Daylight
+3567427,2011-10-12,15:56:00,10,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3566892,2011-10-12,16:00:00,10,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E132088,2011-10-12,16:00:00,10,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3567331,2011-10-13,02:26:00,10,Autumn,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3524518,2011-10-13,06:18:00,10,Autumn,Daytime,No Injury,Overcast,Dry,Dark-Street Lights On
+E131313,2011-10-13,09:06:00,10,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3558284,2011-10-13,09:30:00,10,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Unknown
+3537035,2011-10-13,12:00:00,10,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3372877,2011-10-13,13:00:00,10,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E149768,2011-10-13,14:15:00,10,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E132652,2011-10-13,14:40:00,10,Autumn,Daytime,No Injury,Unknown,Unknown,Daylight
+E131882,2011-10-14,08:28:00,10,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Wet,Daylight
+E131404,2011-10-14,09:15:00,10,Autumn,Daytime,No Injury,Overcast,Dry,Daylight
+E130979,2011-10-14,14:15:00,10,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E131400,2011-10-14,17:27:00,10,Autumn,Daytime,Minor Injury,Overcast,Dry,Daylight
+E131545,2011-10-14,22:40:00,10,Autumn,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3478785,2011-10-15,07:46:00,10,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Dark
+E131156,2011-10-15,15:55:00,10,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E131051,2011-10-15,20:59:00,10,Autumn,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3225504,2011-10-16,23:37:00,10,Autumn,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark
+3432237,2011-10-17,08:52:00,10,Autumn,Daytime,No Injury,Overcast,Wet,Daylight
+E132434,2011-10-17,11:33:00,10,Autumn,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3404168,2011-10-17,15:56:00,10,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E131275,2011-10-17,16:07:00,10,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E131442,2011-10-18,10:40:00,10,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E131637,2011-10-18,16:36:00,10,Autumn,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E131521,2011-10-18,17:02:00,10,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3373887,2011-10-19,15:43:00,10,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E131776,2011-10-19,19:42:00,10,Autumn,Daytime,No Injury,Overcast,Dry,Dark-Street Lights On
+3341874,2011-10-20,10:00:00,10,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3545182,2011-10-20,10:45:00,10,Autumn,Daytime,No Injury,Raining,Wet,Daylight
+3387017,2011-10-20,14:34:00,10,Autumn,Daytime,No Injury,Overcast,Dry,Daylight
+E132010,2011-10-21,02:05:00,10,Autumn,Nighttime,Minor Injury,Overcast,Dry,Dark-Street Lights On
+3428491,2011-10-21,06:45:00,10,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E132205,2011-10-21,08:45:00,10,Autumn,Daytime,No Injury,Raining,Wet,Daylight
+E132625,2011-10-21,09:14:00,10,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E133363,2011-10-21,11:51:00,10,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Wet,Daylight
+E132440,2011-10-21,15:15:00,10,Autumn,Daytime,No Injury,Raining,Wet,Daylight
+3548376,2011-10-21,15:54:00,10,Autumn,Daytime,Minor Injury,Raining,Wet,Daylight
+E131990,2011-10-21,16:52:00,10,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3561332,2011-10-22,00:46:00,10,Autumn,Nighttime,Minor Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+2843068,2011-10-22,03:10:00,10,Autumn,Nighttime,No Injury,Raining,Wet,Dark-Street Lights On
+3380876,2011-10-22,20:29:00,10,Autumn,Nighttime,Minor Injury,Overcast,Wet,Dark-Street Lights On
+E132145,2011-10-22,23:40:00,10,Autumn,Nighttime,No Injury,Overcast,Dry,Dark-Street Lights On
+3241717,2011-10-23,11:15:00,10,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3321667,2011-10-24,09:05:00,10,Autumn,Daytime,No Injury,Overcast,Dry,Daylight
+E134091,2011-10-24,14:54:00,10,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3358236,2011-10-24,15:50:00,10,Autumn,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3395613,2011-10-24,16:11:00,10,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E132809,2011-10-25,07:25:00,10,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E135603,2011-10-25,11:58:00,10,Autumn,Daytime,No Injury,Overcast,Dry,Daylight
+E133136,2011-10-25,14:48:00,10,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3548286,2011-10-25,15:09:00,10,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3477260,2011-10-25,15:35:00,10,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3253162,2011-10-25,15:51:00,10,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3564794,2011-10-25,16:51:00,10,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E133001,2011-10-26,08:00:00,10,Autumn,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E132906,2011-10-26,08:53:00,10,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E133036,2011-10-26,09:15:00,10,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E133025,2011-10-26,09:47:00,10,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3527455,2011-10-26,12:57:00,10,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E134578,2011-10-27,08:29:00,10,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Wet,Daylight
+E134112,2011-10-27,09:48:00,10,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E133400,2011-10-27,16:33:00,10,Autumn,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+2441642,2011-10-28,10:29:00,10,Autumn,Daytime,No Injury,Overcast,Dry,Daylight
+3560258,2011-10-28,14:01:00,10,Autumn,Daytime,No Injury,Raining,Wet,Daylight
+3332400,2011-10-28,14:52:00,10,Autumn,Daytime,No Injury,Raining,Wet,Daylight
+E134032,2011-10-28,16:21:00,10,Autumn,Daytime,Minor Injury,Raining,Wet,Daylight
+E133845,2011-10-28,19:57:00,10,Autumn,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+E134146,2011-10-28,21:02:00,10,Autumn,Nighttime,No Injury,Clear or Partly Cloudy,Wet,Dark-Street Lights On
+3466417,2011-10-29,00:01:00,10,Autumn,Nighttime,No Injury,Overcast,Unknown,Dark-Street Lights On
+3561029,2011-10-29,00:41:00,10,Autumn,Nighttime,Minor Injury,Raining,Wet,Dark-Street Lights On
+3323139,2011-10-29,21:25:00,10,Autumn,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+E134097,2011-10-29,21:40:00,10,Autumn,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3567448,2011-10-30,02:06:00,10,Autumn,Nighttime,Minor Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3562287,2011-10-30,10:06:00,10,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Wet,Daylight
+3157178,2011-10-30,12:38:00,10,Autumn,Daytime,No Injury,Raining,Wet,Daylight
+3554527,2011-10-31,07:56:00,10,Autumn,Daytime,No Injury,Overcast,Dry,Daylight
+E134122,2011-10-31,11:14:00,10,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+2796368,2011-10-31,16:24:00,10,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E134821,2011-10-31,19:40:00,10,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Dark
+3567476,2011-10-31,22:55:00,10,Autumn,Nighttime,Minor Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3383398,2011-11-01,07:05:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+E134546,2011-11-01,14:51:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3373270,2011-11-01,16:44:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3560987,2011-11-01,17:21:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E134623,2011-11-01,20:21:00,11,Autumn,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark
+E135607,2011-11-02,06:44:00,11,Autumn,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Dark
+E134214,2011-11-02,07:24:00,11,Autumn,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3561030,2011-11-02,11:55:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3456146,2011-11-02,15:32:00,11,Autumn,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E134494,2011-11-03,07:45:00,11,Autumn,Daytime,No Injury,Overcast,Wet,Daylight
+E135577,2011-11-03,09:58:00,11,Autumn,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3429420,2011-11-03,10:32:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Wet,Daylight
+E134503,2011-11-03,13:38:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3472252,2011-11-03,17:00:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Unknown,Daylight
+2814911,2011-11-04,08:03:00,11,Autumn,Daytime,No Injury,Overcast,Wet,Daylight
+2506948,2011-11-04,11:10:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3548454,2011-11-04,13:19:00,11,Autumn,Daytime,Minor Injury,Raining,Wet,Daylight
+E135841,2011-11-04,16:10:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E134929,2011-11-05,11:30:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3213842,2011-11-05,18:46:00,11,Autumn,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3553780,2011-11-06,13:28:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E135441,2011-11-07,05:30:00,11,Autumn,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+E135683,2011-11-07,11:55:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E135452,2011-11-07,12:39:00,11,Autumn,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3341528,2011-11-07,13:19:00,11,Autumn,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3562309,2011-11-07,17:57:00,11,Autumn,Daytime,No Injury,Overcast,Wet,Dark-Street Lights On
+3560992,2011-11-07,19:01:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+E136781,2011-11-07,20:08:00,11,Autumn,Nighttime,Minor Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+2619575,2011-11-08,09:07:00,11,Autumn,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3567553,2011-11-08,13:07:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+2711900,2011-11-08,14:12:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3527428,2011-11-08,14:42:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+2901306,2011-11-08,20:17:00,11,Autumn,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3126238,2011-11-09,07:55:00,11,Autumn,Daytime,No Injury,Overcast,Dry,Daylight
+3378208,2011-11-09,12:15:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3552798,2011-11-09,12:38:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E136014,2011-11-09,12:53:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E135754,2011-11-09,13:05:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3517646,2011-11-09,15:17:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3194879,2011-11-10,00:03:00,11,Autumn,Nighttime,Minor Injury,Overcast,Dry,Dark
+2814186,2011-11-10,07:57:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E136602,2011-11-10,08:55:00,11,Autumn,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E135944,2011-11-10,10:05:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+2387109,2011-11-10,12:08:00,11,Autumn,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E135855,2011-11-10,15:26:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E136135,2011-11-10,16:10:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E135797,2011-11-10,16:15:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E138673,2011-11-11,08:11:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3569005,2011-11-11,09:00:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+2734870,2011-11-11,09:52:00,11,Autumn,Daytime,No Injury,Overcast,Wet,Daylight
+3563182,2011-11-11,11:30:00,11,Autumn,Daytime,No Injury,Raining,Wet,Daylight
+3558238,2011-11-11,13:30:00,11,Autumn,Daytime,No Injury,Raining,Wet,Daylight
+E138270,2011-11-11,18:25:00,11,Autumn,Daytime,No Injury,Overcast,Wet,Dark-Street Lights On
+E136446,2011-11-12,01:23:00,11,Autumn,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+E136375,2011-11-12,14:17:00,11,Autumn,Daytime,No Injury,Raining,Wet,Daylight
+E136830,2011-11-14,07:49:00,11,Autumn,Daytime,Minor Injury,Overcast,Dry,Daylight
+3567563,2011-11-14,08:30:00,11,Autumn,Daytime,No Injury,Raining,Wet,Daylight
+3470984,2011-11-15,07:50:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Wet,Daylight
+3546094,2011-11-15,08:20:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3522326,2011-11-15,09:50:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E136894,2011-11-15,14:45:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E139147,2011-11-15,14:48:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E136955,2011-11-15,14:56:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3561280,2011-11-15,22:16:00,11,Autumn,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3429198,2011-11-16,07:42:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E137340,2011-11-16,15:50:00,11,Autumn,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E137781,2011-11-16,17:28:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Wet,Dark-Street Lights On
+3466438,2011-11-16,17:46:00,11,Autumn,Daytime,Minor Injury,Raining,Wet,Dark-Street Lights On
+E136972,2011-11-16,18:51:00,11,Autumn,Daytime,No Injury,Overcast,Wet,Dark-Street Lights On
+E138419,2011-11-16,19:00:00,11,Autumn,Daytime,No Injury,Overcast,Wet,Dark-Street Lights On
+2996148,2011-11-17,07:51:00,11,Autumn,Daytime,No Injury,Raining,Wet,Daylight
+3424057,2011-11-17,15:20:00,11,Autumn,Daytime,No Injury,Raining,Wet,Daylight
+3514423,2011-11-17,15:41:00,11,Autumn,Daytime,No Injury,Raining,Wet,Daylight
+3380781,2011-11-17,21:42:00,11,Autumn,Nighttime,Minor Injury,Clear or Partly Cloudy,Wet,Dark-Street Lights On
+3553255,2011-11-17,22:38:00,11,Autumn,Nighttime,Minor Injury,Raining,Wet,Dark-Street Lights On
+E139673,2011-11-18,06:54:00,11,Autumn,Daytime,Minor Injury,Overcast,Dry,Dark-Street Lights On
+3561912,2011-11-18,08:48:00,11,Autumn,Daytime,Minor Injury,Raining,Wet,Daylight
+E137353,2011-11-18,10:20:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E137979,2011-11-18,16:20:00,11,Autumn,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3378144,2011-11-19,03:40:00,11,Autumn,Nighttime,Minor Injury,Overcast,Wet,Dark-Street Lights On
+3310822,2011-11-19,08:47:00,11,Autumn,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3408595,2011-11-19,14:32:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3567466,2011-11-19,22:00:00,11,Autumn,Nighttime,Minor Injury,Overcast,Dry,Dark-Street Lights On
+3546097,2011-11-21,06:39:00,11,Autumn,Daytime,No Injury,Raining,Wet,Dark-Street Lights On
+E138069,2011-11-21,07:59:00,11,Autumn,Daytime,Minor Injury,Raining,Wet,Daylight
+E138237,2011-11-21,08:01:00,11,Autumn,Daytime,No Injury,Raining,Wet,Daylight
+E138094,2011-11-21,08:49:00,11,Autumn,Daytime,No Injury,Raining,Wet,Daylight
+3560828,2011-11-21,11:43:00,11,Autumn,Daytime,Minor Injury,Raining,Wet,Daylight
+E138781,2011-11-21,12:13:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E139524,2011-11-21,13:30:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Wet,Daylight
+E138792,2011-11-21,14:13:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3473280,2011-11-21,15:38:00,11,Autumn,Daytime,No Injury,Raining,Wet,Daylight
+3022895,2011-11-21,16:39:00,11,Autumn,Daytime,No Injury,Raining,Wet,Dark-Street Lights On
+3445778,2011-11-21,17:48:00,11,Autumn,Daytime,Minor Injury,Raining,Wet,Dark-Street Lights On
+E138178,2011-11-21,18:13:00,11,Autumn,Daytime,No Injury,Raining,Wet,Dark-Street Lights On
+3554279,2011-11-21,22:39:00,11,Autumn,Nighttime,No Injury,Raining,Wet,Dark-Street Lights On
+3558967,2011-11-21,23:03:00,11,Autumn,Nighttime,No Injury,Raining,Wet,Dark-Street Lights On
+E138287,2011-11-22,08:11:00,11,Autumn,Daytime,No Injury,Raining,Wet,Daylight
+E138791,2011-11-22,11:57:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+2667271,2011-11-22,14:26:00,11,Autumn,Daytime,Minor Injury,Raining,Wet,Daylight
+3195961,2011-11-22,14:45:00,11,Autumn,Daytime,No Injury,Raining,Wet,Daylight
+3176330,2011-11-22,14:58:00,11,Autumn,Daytime,No Injury,Raining,Wet,Daylight
+E138546,2011-11-22,16:14:00,11,Autumn,Daytime,Minor Injury,Raining,Wet,Dark
+E142783,2011-11-23,07:38:00,11,Autumn,Daytime,No Injury,Raining,Wet,Daylight
+E138879,2011-11-23,12:11:00,11,Autumn,Daytime,No Injury,Raining,Wet,Daylight
+3538169,2011-11-23,12:45:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E141544,2011-11-23,14:00:00,11,Autumn,Daytime,No Injury,Raining,Wet,Daylight
+E138948,2011-11-23,19:25:00,11,Autumn,Daytime,No Injury,Raining,Wet,Dark-Street Lights On
+3548560,2011-11-24,00:44:00,11,Autumn,Nighttime,No Injury,Raining,Wet,Dark-Street Lights On
+3560265,2011-11-24,16:41:00,11,Autumn,Daytime,Minor Injury,Raining,Wet,Dark-Street Lights On
+E139093,2011-11-25,09:54:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Wet,Daylight
+E139533,2011-11-25,14:06:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E139407,2011-11-25,16:28:00,11,Autumn,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3207530,2011-11-26,02:20:00,11,Autumn,Nighttime,No Injury,Overcast,Dry,Dark-Street Lights On
+3386994,2011-11-26,08:20:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3546737,2011-11-27,01:21:00,11,Autumn,Nighttime,Minor Injury,Raining,Wet,Dark-Street Lights On
+3546741,2011-11-28,01:56:00,11,Autumn,Nighttime,No Injury,Raining,Wet,Dark-Street Lights On
+E139753,2011-11-28,07:04:00,11,Autumn,Daytime,Minor Injury,Overcast,Wet,Dark-Street Lights On
+E140514,2011-11-28,08:14:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Wet,Daylight
+3531389,2011-11-28,09:50:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E140191,2011-11-28,11:02:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+2670353,2011-11-28,11:25:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E141869,2011-11-28,15:18:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E139764,2011-11-28,16:00:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E140314,2011-11-29,07:25:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E139721,2011-11-29,08:15:00,11,Autumn,Daytime,Minor Injury,Overcast,Dry,Daylight
+3563410,2011-11-29,11:16:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3563216,2011-11-29,11:17:00,11,Autumn,Daytime,No Injury,Overcast,Dry,Daylight
+E142405,2011-11-29,11:34:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E140154,2011-11-29,16:20:00,11,Autumn,Daytime,Minor Injury,Overcast,Dry,Daylight
+E142352,2011-11-29,16:46:00,11,Autumn,Daytime,No Injury,Raining,Wet,Dark-Street Lights On
+3542406,2011-11-30,10:38:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E142768,2011-11-30,12:16:00,11,Autumn,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E144245,2011-11-30,14:56:00,11,Autumn,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E140343,2011-11-30,21:20:00,11,Autumn,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3564528,2011-11-30,21:23:00,11,Autumn,Nighttime,Minor Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+E140696,2011-12-01,05:40:00,12,Winter,Nighttime,Minor Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+E140907,2011-12-01,11:06:00,12,Winter,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+3505529,2011-12-01,12:30:00,12,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E140229,2011-12-01,14:00:00,12,Winter,Daytime,Minor Injury,Overcast,Dry,Daylight
+E147606,2011-12-01,18:26:00,12,Winter,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Dark
+3564516,2011-12-01,21:56:00,12,Winter,Nighttime,No Injury,Overcast,Dry,Dark-Street Lights On
+E140368,2011-12-02,08:35:00,12,Winter,Daytime,No Injury,Clear or Partly Cloudy,Wet,Daylight
+2944597,2011-12-03,02:10:00,12,Winter,Nighttime,Minor Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+E140710,2011-12-03,20:21:00,12,Winter,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3375393,2011-12-04,03:43:00,12,Winter,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3167209,2011-12-04,12:40:00,12,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3559446,2011-12-05,13:22:00,12,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E141631,2011-12-05,14:40:00,12,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E143555,2011-12-05,14:52:00,12,Winter,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E141850,2011-12-05,18:15:00,12,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Dark
+2980170,2011-12-06,06:19:00,12,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3207940,2011-12-06,09:54:00,12,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E141116,2011-12-06,14:10:00,12,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3542408,2011-12-06,14:59:00,12,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3546339,2011-12-06,22:59:00,12,Winter,Nighttime,No Injury,Overcast,Dry,Dark-Street Lights On
+3264798,2011-12-07,06:14:00,12,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Dark
+3546503,2011-12-07,14:34:00,12,Winter,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E141504,2011-12-07,17:47:00,12,Winter,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+E142674,2011-12-07,17:49:00,12,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+E141390,2011-12-07,20:10:00,12,Winter,Nighttime,No Injury,Overcast,Dry,Dark-Street Lights On
+E142130,2011-12-09,15:15:00,12,Winter,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Daylight
+E141824,2011-12-09,18:02:00,12,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+E141826,2011-12-09,19:03:00,12,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3566141,2011-12-10,01:22:00,12,Winter,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+E141819,2011-12-10,01:36:00,12,Winter,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3375331,2011-12-10,12:44:00,12,Winter,Daytime,No Injury,Overcast,Wet,Daylight
+E142026,2011-12-10,14:52:00,12,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E142375,2011-12-10,18:35:00,12,Winter,Daytime,No Injury,Clear or Partly Cloudy,Wet,Dark-Street Lights On
+2981012,2011-12-10,23:39:00,12,Winter,Nighttime,No Injury,Overcast,Dry,Dark
+E142144,2011-12-11,10:30:00,12,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E142125,2011-12-11,20:30:00,12,Winter,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+2938886,2011-12-12,10:55:00,12,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+2751272,2011-12-12,15:44:00,12,Winter,Daytime,No Injury,Overcast,Dry,Daylight
+3548359,2011-12-13,13:50:00,12,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E142585,2011-12-13,17:00:00,12,Winter,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+E142902,2011-12-13,19:01:00,12,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+E143026,2011-12-14,13:11:00,12,Winter,Daytime,No Injury,Overcast,Dry,Daylight
+E143557,2011-12-14,17:06:00,12,Winter,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+E142843,2011-12-14,17:35:00,12,Winter,Daytime,Minor Injury,Overcast,Dry,Dark-Street Lights On
+3553862,2011-12-14,19:10:00,12,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+E142910,2011-12-15,07:28:00,12,Winter,Daytime,No Injury,Raining,Wet,Daylight
+3554234,2011-12-15,10:14:00,12,Winter,Daytime,No Injury,Overcast,Dry,Daylight
+E143137,2011-12-15,12:37:00,12,Winter,Daytime,No Injury,Raining,Wet,Daylight
+3445701,2011-12-15,13:59:00,12,Winter,Daytime,No Injury,Overcast,Dry,Daylight
+2752833,2011-12-15,14:05:00,12,Winter,Daytime,No Injury,Overcast,Wet,Daylight
+E145649,2011-12-15,16:22:00,12,Winter,Daytime,No Injury,Overcast,Wet,Dark-Street Lights On
+E143156,2011-12-15,17:05:00,12,Winter,Daytime,No Injury,Raining,Wet,Dark-Street Lights On
+E142968,2011-12-15,17:15:00,12,Winter,Daytime,No Injury,Overcast,Dry,Dark
+E144195,2011-12-15,17:52:00,12,Winter,Daytime,No Injury,Overcast,Dry,Dark-Street Lights On
+E143182,2011-12-15,20:48:00,12,Winter,Nighttime,Minor Injury,Overcast,Wet,Dark-Street Lights On
+3548611,2011-12-15,23:02:00,12,Winter,Nighttime,No Injury,Overcast,Wet,Dark-Street Lights On
+E143415,2011-12-16,08:48:00,12,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E144479,2011-12-16,12:30:00,12,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3475760,2011-12-16,14:10:00,12,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E144279,2011-12-17,15:59:00,12,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3546767,2011-12-18,00:08:00,12,Winter,Nighttime,Minor Injury,Raining,Wet,Dark-Street Lights On
+E143595,2011-12-18,11:04:00,12,Winter,Daytime,No Injury,Raining,Wet,Daylight
+3546769,2011-12-20,12:34:00,12,Winter,Daytime,No Injury,Overcast,Dry,Daylight
+E144105,2011-12-20,12:35:00,12,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+E144038,2011-12-20,20:17:00,12,Winter,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+E145437,2011-12-21,08:10:00,12,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3545283,2011-12-21,18:30:00,12,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3305875,2011-12-21,23:00:00,12,Winter,Nighttime,Minor Injury,Overcast,Dry,Dark-Street Lights On
+2774816,2011-12-22,17:05:00,12,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+E148438,2011-12-22,18:17:00,12,Winter,Daytime,Minor Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3387131,2011-12-22,20:01:00,12,Winter,Nighttime,No Injury,Unknown,Unknown,Unknown
+3535818,2011-12-23,11:45:00,12,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3559685,2011-12-23,18:52:00,12,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+E148325,2011-12-27,11:26:00,12,Winter,Daytime,No Injury,Clear or Partly Cloudy,Dry,Daylight
+3505719,2011-12-27,17:30:00,12,Winter,Daytime,No Injury,Unknown,Unknown,Unknown
+E146128,2011-12-28,14:30:00,12,Winter,Daytime,Minor Injury,Raining,Wet,Daylight
+E145600,2011-12-28,20:28:00,12,Winter,Nighttime,No Injury,Clear or Partly Cloudy,Wet,Dark-Street Lights On
+E146516,2011-12-29,11:30:00,12,Winter,Daytime,No Injury,Overcast,Dry,Daylight
+E146025,2011-12-29,20:54:00,12,Winter,Nighttime,No Injury,Raining,Wet,Dark-Street Lights On
+3561183,2011-12-30,02:05:00,12,Winter,Nighttime,Minor Injury,Clear or Partly Cloudy,Wet,Dark-Street Lights On
+E145978,2011-12-30,23:30:00,12,Winter,Nighttime,Minor Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3428124,2011-12-31,01:56:00,12,Winter,Nighttime,Minor Injury,Clear or Partly Cloudy,Dry,Dark-Street Lights On
+3545747,2011-12-31,23:50:00,12,Winter,Nighttime,No Injury,Clear or Partly Cloudy,Dry,Dark
